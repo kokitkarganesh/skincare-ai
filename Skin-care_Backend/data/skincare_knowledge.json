@@ -1,0 +1,1235 @@
+{
+  "metadata": {
+    "total_entries": 175,
+    "version": "2.0",
+    "last_updated": "2026-03-14",
+    "categories": ["acne", "anti-aging", "routines", "ingredients", "concerns", "skin_types", "treatments", "lifestyle"]
+  },
+  "qa_database": [
+    {
+      "id": "qa_0001",
+      "question": "How to treat acne?",
+      "answer": "For acne treatment: 1) Use a gentle cleanser twice daily, 2) Apply benzoyl peroxide 2.5-5% or salicylic acid 2%, 3) Use oil-free, non-comedogenic moisturizer, 4) Avoid touching your face, 5) Change pillowcases regularly. For severe acne, consult a dermatologist about prescription treatments like tretinoin, antibiotics, or isotretinoin.",
+      "tags": ["acne", "treatment", "skincare", "breakouts"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0002",
+      "question": "What causes acne?",
+      "answer": "Acne is caused by: 1) Excess oil production, 2) Clogged pores with dead skin cells, 3) Bacteria (C. acnes), 4) Inflammation, 5) Hormonal changes (puberty, periods, PCOS), 6) Stress, 7) Diet (dairy, high glycemic foods), 8) Certain medications, 9) Genetics. Combination of factors usually triggers breakouts.",
+      "tags": ["acne", "causes", "skincare"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0003",
+      "question": "What is hormonal acne?",
+      "answer": "Hormonal acne appears on lower face (jawline, chin) and is triggered by hormone fluctuations. Common in: 1) Women around periods, 2) PCOS patients, 3) During pregnancy, 4) Menopause. Treatment: Birth control pills, spironolactone, topical retinoids, benzoyl peroxide. See dermatologist for hormonal testing if severe.",
+      "tags": ["acne", "hormonal", "treatment"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0004",
+      "question": "How to treat cystic acne?",
+      "answer": "Cystic acne (deep, painful nodules) requires professional treatment: 1) Oral antibiotics (doxycycline), 2) Isotretinoin (Accutane) for severe cases, 3) Cortisone injections for individual cysts, 4) Spironolactone for hormonal cystic acne, 5) Avoid picking - causes scarring! At home: benzoyl peroxide, ice to reduce swelling, gentle skincare.",
+      "tags": ["acne", "cystic", "severe", "treatment"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0005",
+      "question": "How to get rid of acne scars?",
+      "answer": "For acne scars: 1) Vitamin C serum for PIH (dark marks), 2) Retinol to stimulate collagen, 3) Niacinamide to fade hyperpigmentation, 4) SPF 50+ to prevent darkening, 5) AHA peels for surface scars. Professional: Microneedling, laser resurfacing, chemical peels, subcision for ice-pick scars. Takes 6-12 months to see improvement.",
+      "tags": ["acne scars", "treatment", "hyperpigmentation"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0006",
+      "question": "How to remove dark circles under eyes?",
+      "answer": "To reduce dark circles: 1) Get 7-8 hours of quality sleep, 2) Use caffeine eye cream or vitamin K serum, 3) Apply cold compress in the morning, 4) Stay hydrated (8+ glasses water daily), 5) Use sunscreen around eyes, 6) Consider vitamin C serum for brightening, 7) Sleep with head elevated. For severe cases: chemical peels, fillers, laser.",
+      "tags": ["dark circles", "eyes", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0007",
+      "question": "What causes dark circles?",
+      "answer": "Dark circles are caused by: 1) Genetics (thin skin, visible blood vessels), 2) Lack of sleep, 3) Dehydration, 4) Aging (loss of fat/collagen), 5) Sun exposure, 6) Allergies, 7) Anemia (iron deficiency), 8) Eye strain from screens. Different causes need different treatments - see dermatologist if persistent.",
+      "tags": ["dark circles", "causes", "eyes"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0008",
+      "question": "What is the best morning skincare routine?",
+      "answer": "Morning routine: 1) Gentle cleanser (or just water for dry skin), 2) Toner (optional), 3) Vitamin C serum, 4) Eye cream, 5) Moisturizer, 6) Sunscreen SPF 30+ (MOST IMPORTANT!). For oily skin, use gel-based products. For dry skin, use cream-based products. Keep it simple - 5-6 steps max.",
+      "tags": ["routine", "morning", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0009",
+      "question": "What is the best evening skincare routine?",
+      "answer": "Evening routine: 1) Oil cleanser or micellar water (remove makeup/sunscreen), 2) Water-based cleanser (double cleanse), 3) Exfoliant 2-3x/week (AHA/BHA), 4) Toner, 5) Treatment serum (retinol, niacinamide), 6) Eye cream, 7) Moisturizer or night cream, 8) Face oil (optional, for dry skin). Let products absorb before next step.",
+      "tags": ["routine", "evening", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0010",
+      "question": "What is retinol and how to use it?",
+      "answer": "Retinol is a vitamin A derivative that reduces wrinkles, improves texture, and treats acne. How to use: 1) Start with 0.25-0.5% concentration, 2) Apply at night only on dry skin, 3) Use pea-sized amount for whole face, 4) Start 2x/week, gradually increase to nightly, 5) ALWAYS use SPF 30+ during the day, 6) Expect purging for 4-6 weeks, 7) Avoid if pregnant/breastfeeding.",
+      "tags": ["retinol", "ingredients", "anti-aging"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0011",
+      "question": "What is the best routine for oily skin?",
+      "answer": "For oily skin: MORNING: 1) Gel/foaming cleanser, 2) Niacinamide serum (controls oil), 3) Oil-free moisturizer, 4) Matte sunscreen. EVENING: 1) Double cleanse, 2) Salicylic acid 2% toner/serum, 3) Niacinamide, 4) Lightweight gel moisturizer. WEEKLY: Clay mask 2x/week. DON'T over-wash - it triggers MORE oil production!",
+      "tags": ["oily skin", "routine", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0012",
+      "question": "What is the best routine for dry skin?",
+      "answer": "For dry skin: MORNING: 1) Cream cleanser (or just water), 2) Hyaluronic acid serum on damp skin, 3) Rich moisturizer, 4) Hydrating sunscreen. EVENING: 1) Cleansing balm/oil, 2) Cream cleanser, 3) Gentle exfoliant 1-2x/week, 4) Hyaluronic acid on damp skin, 5) Rich night cream, 6) Face oil. Use humidifier at night. Avoid hot water.",
+      "tags": ["dry skin", "routine", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0013",
+      "question": "How to reduce wrinkles and fine lines?",
+      "answer": "To reduce wrinkles: 1) Retinol/tretinoin (MOST EFFECTIVE), 2) Vitamin C serum (antioxidant), 3) Peptide creams, 4) SPF 30+ daily (prevents new wrinkles), 5) Hyaluronic acid (plumps skin), 6) Get 7-8 hours sleep, 7) Stay hydrated, 8) Don't smoke, 9) Eat antioxidant-rich foods. PROFESSIONAL: Botox, fillers, laser, microneedling, chemical peels.",
+      "tags": ["wrinkles", "anti-aging", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0014",
+      "question": "What is niacinamide and what does it do?",
+      "answer": "Niacinamide (Vitamin B3) is a multi-purpose ingredient that: 1) Reduces oil production, 2) Minimizes pores, 3) Evens skin tone, 4) Reduces redness and inflammation, 5) Strengthens skin barrier, 6) Increases ceramide production, 7) Works for ALL skin types. Use 5-10% concentration, morning and/or evening. Safe to combine with retinol, vitamin C, AHAs, BHAs.",
+      "tags": ["niacinamide", "ingredients", "skincare"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0015",
+      "question": "Benzoyl peroxide vs salicylic acid - which is better for acne?",
+      "answer": "BENZOYL PEROXIDE: Kills acne bacteria, works on surface, 2.5-10% strength, best for inflamed/pustular acne, can bleach fabric/hair. SALICYLIC ACID: Unclogs pores, oil-soluble (penetrates deeper), 0.5-2% strength, best for blackheads/whiteheads, gentler on skin. CAN USE BOTH: BPO in morning, SA at night. Start with ONE if sensitive skin.",
+      "tags": ["benzoyl peroxide", "salicylic acid", "acne", "comparison"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0016",
+      "question": "How to treat hyperpigmentation and dark spots?",
+      "answer": "For hyperpigmentation: 1) Vitamin C serum 10-20% (morning), 2) Niacinamide 5-10%, 3) Alpha arbutin or kojic acid, 4) Retinol (evening), 5) SPF 50+ DAILY (essential! sun darkens spots), 6) AHA exfoliants 2-3x/week, 7) Tranexamic acid for stubborn spots. PROFESSIONAL: Chemical peels, laser, IPL. Takes 8-12 weeks minimum. Patience required!",
+      "tags": ["hyperpigmentation", "dark spots", "treatment", "brightening"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0017",
+      "question": "What is vitamin C and how to use it in skincare?",
+      "answer": "Vitamin C (L-Ascorbic Acid) is a powerful antioxidant that: 1) Brightens skin, 2) Fades dark spots, 3) Protects against sun damage and pollution, 4) Boosts collagen production, 5) Evens skin tone. HOW TO USE: 10-20% concentration, apply in MORNING on clean skin, follow with moisturizer + SPF. Store in dark, cool place. Use within 3-6 months (oxidizes). May tingle - normal!",
+      "tags": ["vitamin c", "ingredients", "antioxidant", "brightening"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0018",
+      "question": "How to shrink large pores?",
+      "answer": "To minimize pores: 1) Salicylic acid 2% to unclog pores, 2) Niacinamide to regulate oil production, 3) Retinol to thicken skin around pores, 4) Clay masks 2x/week, 5) Double cleanse to remove all oil/makeup, 6) DON'T skip moisturizer (dehydrated skin = larger-looking pores), 7) Ice skin before makeup. NOTE: Can't permanently shrink pores (genetic), but can make them LOOK smaller!",
+      "tags": ["pores", "treatment", "skincare"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0019",
+      "question": "What is hyaluronic acid and how does it work?",
+      "answer": "Hyaluronic Acid is a humectant that holds 1000x its weight in water, plumping and hydrating skin. HOW TO USE: 1) Apply to DAMP skin (locks in moisture), 2) Use morning and evening, 3) Layer under moisturizer, 4) Works for ALL skin types, 5) Different molecular weights penetrate different depths. NOTE: Not an exfoliant despite 'acid' in name! Can use in humid climates.",
+      "tags": ["hyaluronic acid", "hydration", "ingredients"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0020",
+      "question": "How often should I exfoliate my face?",
+      "answer": "Exfoliation frequency by skin type: OILY: 3-4x/week, NORMAL/COMBINATION: 2-3x/week, DRY/SENSITIVE: 1-2x/week. Use CHEMICAL exfoliants (AHA/BHA) over physical scrubs. AHAs (glycolic, lactic) for dry/sun-damaged/dull skin. BHAs (salicylic) for oily/acne-prone skin. START SLOW (1x/week), increase gradually. OVER-EXFOLIATION damages skin barrier - causes redness, sensitivity, more breakouts!",
+      "tags": ["exfoliation", "aha", "bha", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0021",
+      "question": "What is the difference between AHA and BHA?",
+      "answer": "AHAs (Alpha Hydroxy Acids): Water-soluble, work on SURFACE, exfoliate dead skin, brighten, reduce fine lines. Types: Glycolic (strongest), Lactic (gentle), Mandelic (sensitive skin). Best for: Dry, sun-damaged, aging skin. BHAs (Beta Hydroxy Acids): Oil-soluble, penetrate PORES, unclog blackheads, reduce oil. Type: Salicylic acid. Best for: Oily, acne-prone skin. Can use BOTH on different days!",
+      "tags": ["aha", "bha", "exfoliation", "ingredients", "comparison"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0022",
+      "question": "What is tretinoin and how is it different from retinol?",
+      "answer": "TRETINOIN (Retin-A): Prescription retinoid, direct form of vitamin A, 20x stronger than retinol, faster results (3 months), more irritation, requires dermatologist. RETINOL: Over-the-counter, converts to retinoic acid in skin, gentler, slower results (6+ months), good for beginners. BOTH: Reduce wrinkles, treat acne, improve texture. Start tretinoin 0.025%, retinol 0.25-0.5%. ALWAYS use SPF!",
+      "tags": ["tretinoin", "retinol", "ingredients", "comparison"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0023",
+      "question": "How to layer skincare products correctly?",
+      "answer": "Correct order (thinnest to thickest): 1) CLEANSER, 2) TONER, 3) SERUM (vitamin C, hyaluronic acid), 4) EYE CREAM, 5) MOISTURIZER, 6) FACE OIL (if using), 7) SUNSCREEN (morning only). Wait 1-2 minutes between steps for absorption. EXCEPTIONS: Retinol goes on dry skin (no toner first). Vitamin C goes before hyaluronic acid. Oil-based products last (before sunscreen).",
+      "tags": ["routine", "layering", "skincare", "order"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0024",
+      "question": "What is the best sunscreen for face?",
+      "answer": "Best sunscreen: 1) SPF 30+ (SPF 50 better), 2) BROAD SPECTRUM (UVA + UVB), 3) Apply 1/4 teaspoon for face, 4) Reapply every 2 hours if outside. TYPES: Mineral (zinc oxide, titanium dioxide) for sensitive skin, leaves white cast. Chemical (avobenzone, octinoxate) for no white cast, may irritate. TEXTURES: Gel for oily, cream for dry. Apply EVERY DAY, even indoors (UVA penetrates windows)!",
+      "tags": ["sunscreen", "spf", "protection", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0025",
+      "question": "Can I use vitamin C and retinol together?",
+      "answer": "YES, but use at DIFFERENT times: VITAMIN C in MORNING (antioxidant protection during day + boosts SPF), RETINOL at NIGHT (sun-sensitive, works overnight). DON'T mix in same application - different pH requirements. Start one at a time (4-6 weeks apart) to avoid irritation. Some sensitive skin may need to alternate days. Both need SPF next morning!",
+      "tags": ["vitamin c", "retinol", "layering", "routine"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0026",
+      "question": "What is double cleansing and should I do it?",
+      "answer": "Double cleansing: 1) OIL-BASED cleanser (removes makeup, sunscreen, sebum), 2) WATER-BASED cleanser (removes sweat, dirt, leftover residue). WHO NEEDS IT: Anyone wearing makeup/sunscreen, oily skin, lives in polluted cities. WHEN: Evening only. MORNING: Single cleanse or just water. Prevents clogged pores, allows skincare to penetrate better. Use gentle cleansers - don't strip skin!",
+      "tags": ["cleansing", "double cleanse", "routine"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0027",
+      "question": "What causes redness and how to reduce it?",
+      "answer": "Redness causes: 1) Rosacea, 2) Sensitive skin, 3) Damaged skin barrier, 4) Inflammation, 5) Allergic reaction, 6) Over-exfoliation. TREATMENT: 1) Gentle cleanser, 2) Niacinamide 5% (reduces inflammation), 3) Azelaic acid 10-20%, 4) Centella asiatica (cica), 5) Green tea extract, 6) Avoid: fragrance, alcohol, hot water, harsh scrubs. PROFESSIONAL: Laser (IPL) for rosacea/broken capillaries.",
+      "tags": ["redness", "rosacea", "sensitive skin", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0028",
+      "question": "What is rosacea and how to treat it?",
+      "answer": "Rosacea: Chronic condition causing facial redness, visible blood vessels, bumps. 4 TYPES: 1) Erythematotelangiectatic (persistent redness), 2) Papulopustular (acne-like bumps), 3) Phymatous (thickened skin), 4) Ocular (eye symptoms). TRIGGERS: Sun, heat, spicy food, alcohol, stress. TREATMENT: Azelaic acid, metronidazole gel, oral antibiotics, laser (IPL). AVOID: Harsh products, fragrance, retinol (unless tolerated). See dermatologist!",
+      "tags": ["rosacea", "redness", "treatment", "chronic"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0029",
+      "question": "What is azelaic acid and what does it treat?",
+      "answer": "Azelaic Acid (10-20%): Multi-purpose ingredient that: 1) Reduces acne (antibacterial), 2) Fades dark spots/PIH, 3) Reduces redness/rosacea, 4) Evens skin tone, 5) Gentle exfoliation, 6) Safe for sensitive skin, 7) Can use during pregnancy (unlike retinoids). USE: Morning or evening, start 2-3x/week. May tingle initially. Works for ALL skin types. Takes 6-12 weeks for results.",
+      "tags": ["azelaic acid", "ingredients", "acne", "redness"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0030",
+      "question": "How to treat melasma and stubborn hyperpigmentation?",
+      "answer": "Melasma (hormone-triggered pigmentation) is STUBBORN. TOPICAL: 1) Hydroquinone 2-4% (prescription), 2) Triple cream (hydroquinone + tretinoin + steroid), 3) Tranexamic acid 2-5%, 4) Kojic acid, 5) Vitamin C, 6) Niacinamide. PROFESSIONAL: Chemical peels, laser (with caution - can worsen!), IPL. CRUCIAL: SPF 50+ DAILY + reapply! Sun makes it worse. Takes 6-12 months. May recur.",
+      "tags": ["melasma", "hyperpigmentation", "dark spots", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0031",
+      "question": "What is peptide and what does it do for skin?",
+      "answer": "Peptides: Short chains of amino acids that signal skin to produce collagen. BENEFITS: 1) Reduce fine lines/wrinkles, 2) Improve firmness, 3) Strengthen skin barrier, 4) Reduce inflammation, 5) Help wound healing. TYPES: Matrixyl, Argireline, copper peptides. USE: Morning and/or evening, safe with most ingredients. Gentle, good for sensitive skin. Results in 8-12 weeks. Best combined with retinol for anti-aging.",
+      "tags": ["peptides", "anti-aging", "ingredients", "collagen"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0032",
+      "question": "What is the best anti-aging skincare routine?",
+      "answer": "ANTI-AGING ROUTINE: MORNING: 1) Gentle cleanser, 2) Vitamin C 15-20%, 3) Peptide serum, 4) Eye cream, 5) Moisturizer, 6) SPF 50+. EVENING: 1) Double cleanse, 2) Retinol/tretinoin 0.25-1%, 3) Peptide serum, 4) Eye cream, 5) Rich night cream. 2-3X/WEEK: AHA exfoliant. WEEKLY: Hydrating mask. KEY: Consistency! Takes 3-6 months for visible results. Don't forget neck + hands!",
+      "tags": ["anti-aging", "routine", "wrinkles", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0033",
+      "question": "How to prevent aging and wrinkles?",
+      "answer": "PREVENTION: 1) SPF 30+ DAILY (most important!), 2) Retinol from age 25+, 3) Antioxidants (vitamin C, E, green tea), 4) Don't smoke, 5) Limit alcohol, 6) Sleep 7-8 hours, 7) Sleep on back (prevents sleep wrinkles), 8) Hydrate (8+ glasses water), 9) Eat antioxidant-rich foods, 10) Manage stress, 11) Don't tan. Prevention > Treatment. Start early!",
+      "tags": ["anti-aging", "prevention", "wrinkles", "lifestyle"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0034",
+      "question": "What is glycolic acid and how to use it?",
+      "answer": "Glycolic Acid: Strongest AHA (smallest molecule), penetrates deepest. BENEFITS: 1) Exfoliates dead skin, 2) Brightens, 3) Reduces fine lines, 4) Fades dark spots, 5) Unclogs pores, 6) Evens texture. CONCENTRATION: 5-10% (home use), 30-70% (professional peels). USE: Evening only, 2-3x/week, follow with moisturizer. Start 5%, increase gradually. MUST use SPF! Avoid if rosacea/very sensitive.",
+      "tags": ["glycolic acid", "aha", "exfoliation", "ingredients"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0035",
+      "question": "What is lactic acid and is it better than glycolic acid?",
+      "answer": "Lactic Acid: Gentler AHA (larger molecule), hydrating properties. BENEFITS: Same as glycolic but GENTLER - better for sensitive/dry skin. CONCENTRATION: 5-10% (home), 30-50% (professional). COMPARISON: Glycolic = stronger, faster results, more irritation. Lactic = gentler, hydrating, slower results. Both brighten, exfoliate, anti-aging. Choose lactic if sensitive, glycolic if need stronger effects. Both need SPF!",
+      "tags": ["lactic acid", "aha", "exfoliation", "ingredients", "sensitive"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0036",
+      "question": "How to treat eczema and very dry, itchy skin?",
+      "answer": "ECZEMA TREATMENT: 1) Thick cream/ointment (CeraVe, Vanicream), 2) Apply on damp skin, 3) Colloidal oatmeal baths, 4) Avoid fragrances/irritants, 5) Short lukewarm showers, 6) Humidifier at night, 7) Cotton clothing. PRESCRIPTION: Hydrocortisone cream 1% (short-term), Tacrolimus/pimecrolimus, Dupixent (severe). AVOID: Harsh soaps, hot water, wool, stress. Keep nails short (prevent scratching). See dermatologist if severe.",
+      "tags": ["eczema", "dry skin", "itching", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0037",
+      "question": "What is ceramide and why is it important?",
+      "answer": "Ceramides: Lipids (fats) that make up 50% of skin barrier. FUNCTION: 1) Retain moisture, 2) Protect from irritants, 3) Keep skin plump, 4) Prevent water loss. LOW CERAMIDES = dry, sensitive, irritated skin, eczema. SOURCES: Skincare products (CeraVe, Drunk Elephant), niacinamide (boosts natural production). BEST FOR: Dry, sensitive, damaged barrier. Use morning + evening. Safe for all ages.",
+      "tags": ["ceramide", "ingredients", "barrier", "dry skin"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0038",
+      "question": "What is the best routine for sensitive skin?",
+      "answer": "SENSITIVE SKIN ROUTINE: MORNING: 1) Gentle cream cleanser (or water only), 2) Soothing toner (centella, rose water), 3) Barrier repair serum (ceramides, niacinamide 5%), 4) Gentle moisturizer, 5) Mineral sunscreen. EVENING: 1) Micellar water, 2) Gentle cleanser, 3) Barrier serum, 4) Rich moisturizer. AVOID: Fragrance, essential oils, alcohol, harsh exfoliants, retinol (start slow if needed). PATCH TEST everything!",
+      "tags": ["sensitive skin", "routine", "skincare", "gentle"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0039",
+      "question": "What ingredients should I avoid if I have sensitive skin?",
+      "answer": "AVOID: 1) Fragrance/perfume (top irritant), 2) Essential oils (lavender, citrus), 3) Alcohol (SD alcohol, denatured), 4) Harsh physical scrubs, 5) High % acids (start low), 6) Strong retinoids (start 0.25%), 7) Coconut oil (comedogenic for some), 8) SLS (harsh surfactant). SAFE: Ceramides, niacinamide 5%, centella, oat extract, hyaluronic acid. ALWAYS patch test 48 hours!",
+      "tags": ["sensitive skin", "ingredients", "avoid", "irritation"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0040",
+      "question": "How to repair damaged skin barrier?",
+      "answer": "BARRIER REPAIR: 1) STOP all actives (retinol, acids, vitamin C) for 2-4 weeks, 2) Gentle cleanser only (or water), 3) Ceramide-rich moisturizer (CeraVe, La Roche Posay Cicaplast), 4) Vaseline/Aquaphor on top at night (occlusive), 5) Niacinamide 5%, 6) Centella asiatica, 7) Avoid: hot water, over-washing, fragrance. Takes 4-8 weeks. Then reintroduce actives slowly!",
+      "tags": ["skin barrier", "repair", "damaged", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0041",
+      "question": "What is niacinamide and can I use it with vitamin C?",
+      "answer": "Yes, you CAN use niacinamide + vitamin C together! Old myth said they cancel out - DEBUNKED. BENEFITS of combining: 1) Brightening, 2) Antioxidant protection, 3) Even skin tone, 4) Reduce inflammation. HOW: Apply vitamin C first (lower pH), wait 1 minute, then niacinamide. OR use in same product (many brands combine them). Start separately if very sensitive to monitor reactions.",
+      "tags": ["niacinamide", "vitamin c", "layering", "myth"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0042",
+      "question": "How much water should I drink for good skin?",
+      "answer": "Drink 8-10 glasses (2-2.5 liters) of water daily for hydrated skin. MORE if: exercising, hot climate, caffeinated drinks (diuretic). SIGNS of dehydration: Dull skin, more visible fine lines, dark circles, flakiness. BONUS: Eat water-rich foods (cucumber, watermelon, oranges). NOTE: Water alone won't fix dry skin - you need topical moisturizers too! Hydration = internal + external.",
+      "tags": ["water", "hydration", "lifestyle", "skincare"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0043",
+      "question": "Does diet affect skin? What foods are best for skin?",
+      "answer": "BEST FOODS: 1) Fatty fish (omega-3 for inflammation), 2) Berries (antioxidants), 3) Avocado (healthy fats), 4) Nuts/seeds (vitamin E), 5) Sweet potato (beta-carotene), 6) Green tea (antioxidants), 7) Dark chocolate 70%+ (flavonoids), 8) Tomatoes (lycopene), 9) Leafy greens (vitamins). LIMIT: Sugar, dairy, processed foods, alcohol. Takes 4-8 weeks to see skin changes from diet.",
+      "tags": ["diet", "nutrition", "lifestyle", "skincare"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0044",
+      "question": "Does sugar cause acne and aging?",
+      "answer": "YES! High sugar/high glycemic foods cause: 1) ACNE: Spike insulin → increases androgens → more oil production → breakouts, 2) AGING: Glycation damages collagen/elastin → wrinkles, sagging, dullness. WORST: White bread, pastries, candy, soda, processed foods. BETTER: Whole grains, berries, vegetables (low glycemic). Cutting sugar improves skin in 2-4 weeks. Don't need to eliminate - just reduce!",
+      "tags": ["sugar", "diet", "acne", "aging", "glycation"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0045",
+      "question": "Does dairy cause acne?",
+      "answer": "For SOME people, yes. Dairy (especially skim milk) may trigger acne via: 1) Hormones in milk (IGF-1), 2) Inflammatory response, 3) Increased sebum. NOT everyone affected. TRY: Eliminate dairy 4-6 weeks, watch skin. If improves, dairy likely triggers breakouts. ALTERNATIVES: Almond milk, oat milk, coconut yogurt. NOTE: Greek yogurt, cheese may be better tolerated than milk.",
+      "tags": ["dairy", "acne", "diet", "triggers"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0046",
+      "question": "How does sleep affect skin?",
+      "answer": "POOR SLEEP damages skin: 1) Increases cortisol (stress hormone) → breakouts, inflammation, 2) Decreases collagen production → wrinkles, 3) Impairs skin barrier → dryness, sensitivity, 4) Reduces blood flow → dull, sallow skin, 5) Causes dark circles, puffiness. NEED: 7-8 hours quality sleep. TIPS: Sleep on back, silk pillowcase, humidifier, nighttime skincare routine. Skin regenerates most 11pm-3am!",
+      "tags": ["sleep", "lifestyle", "skincare", "aging"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0047",
+      "question": "What is the best sleeping position for skin?",
+      "answer": "BEST: Sleep on BACK - prevents sleep wrinkles (from pillow compression), reduces puffiness, no asymmetrical aging. WORST: Side/stomach sleeping - causes sleep lines → permanent wrinkles over time. HELP: 1) Silk/satin pillowcase (less friction), 2) Special anti-wrinkle pillow, 3) Retrain yourself to back sleep. If can't back sleep, change pillowcase often, use silk.",
+      "tags": ["sleep", "wrinkles", "prevention", "lifestyle"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0048",
+      "question": "Does stress cause acne and skin problems?",
+      "answer": "YES! Stress causes: 1) ACNE: Cortisol → increases oil production + inflammation, 2) ECZEMA/PSORIASIS flares, 3) ROSACEA triggers, 4) Slowed healing, 5) Dull, tired skin, 6) Dark circles, 7) Hair loss. STRESS MANAGEMENT: Exercise, meditation, yoga, sleep, therapy, journaling. Stress acne appears on jawline/chin. Skin improves 2-4 weeks after stress reduction.",
+      "tags": ["stress", "acne", "lifestyle", "cortisol"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0049",
+      "question": "How does exercise benefit skin?",
+      "answer": "EXERCISE BENEFITS: 1) Increases blood flow → oxygen/nutrients to skin → glow, 2) Reduces stress/cortisol → less breakouts, 3) Regulates hormones, 4) Promotes collagen production, 5) Sweating clears pores (if cleaned after!), 6) Better sleep → skin regeneration. CAUTION: Shower within 30 mins post-workout (sweat + bacteria = breakouts), clean gym equipment, remove makeup before exercise.",
+      "tags": ["exercise", "lifestyle", "skincare", "glow"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0050",
+      "question": "What is the best skincare routine for combination skin?",
+      "answer": "COMBINATION (oily T-zone, dry cheeks): MORNING: 1) Gentle gel cleanser, 2) Balancing toner, 3) Lightweight serum (niacinamide or hyaluronic acid), 4) Gel moisturizer on T-zone, richer on cheeks, 5) Sunscreen SPF 30+. EVENING: 1) Double cleanse, 2) Exfoliant 2-3x/week (BHA on T-zone, AHA on cheeks), 3) Serum, 4) Moisturizer. MULTI-MASKING: Clay on T-zone, hydrating on cheeks!",
+      "tags": ["combination skin", "routine", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0051",
+      "question": "What is tranexamic acid and what does it do?",
+      "answer": "Tranexamic Acid (2-5%): Targets stubborn hyperpigmentation, especially melasma. HOW: Inhibits melanin production via different pathway than vitamin C/niacinamide. BENEFITS: 1) Fades dark spots, 2) Evens skin tone, 3) Reduces PIH/melasma, 4) Calms inflammation, 5) Safe for all skin types. USE: Morning or evening, can combine with vitamin C, niacinamide. Results in 8-12 weeks. Still need SPF!",
+      "tags": ["tranexamic acid", "ingredients", "hyperpigmentation", "melasma"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0052",
+      "question": "What is kojic acid?",
+      "answer": "Kojic Acid (1-4%): Natural skin brightener from mushrooms. BENEFITS: 1) Fades dark spots, 2) Inhibits tyrosinase (melanin production), 3) Antioxidant, 4) Treats melasma/PIH. GENTLER than hydroquinone. USE: Evening, 2-3x/week initially. May cause mild irritation. Combine with: vitamin C, niacinamide, azelaic acid. MUST use SPF! Results in 6-8 weeks. Avoid during pregnancy (limited safety data).",
+      "tags": ["kojic acid", "ingredients", "brightening", "dark spots"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0053",
+      "question": "What is alpha arbutin?",
+      "answer": "Alpha Arbutin (1-2%): Gentle skin brightener, derived from bearberry plant. BENEFITS: 1) Fades dark spots, 2) Even skin tone, 3) Safe for all skin types, 4) More stable than kojic acid, 5) Gentle (good for sensitive skin). SLOWER but SAFER than hydroquinone. USE: Morning or evening, safe to combine with vitamin C, niacinamide, AHAs. Results in 8-12 weeks. Safe during pregnancy (topical use).",
+      "tags": ["alpha arbutin", "ingredients", "brightening", "gentle"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0054",
+      "question": "What is the best treatment for large pores?",
+      "answer": "PORE TREATMENT: 1) CLEANSE: Double cleanse, oil-free cleansers, 2) EXFOLIATE: Salicylic acid 2% (unclogs), 3) RETINOL: Thickens skin around pores, 4) NIACINAMIDE: Regulates oil, 5) CLAY MASKS 2x/week, 6) PROFESSIONAL: Laser, microneedling, chemical peels. DAILY: Sunscreen (sun damage enlarges pores). MAKEUP: Pore-filling primer. NOTE: Can't shrink pores permanently (genetic size) but can minimize appearance!",
+      "tags": ["pores", "treatment", "skincare", "texture"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0055",
+      "question": "What causes large pores?",
+      "answer": "PORE SIZE determined by: 1) GENETICS (main factor), 2) Oily skin (excess sebum stretches pores), 3) AGE (collagen loss, pores sag), 4) SUN DAMAGE (breaks down collagen), 5) Clogged pores (blackheads stretch them), 6) Poor skincare routine. Can't change size permanently but can minimize: salicylic acid, retinol, niacinamide, clay masks, sun protection.",
+      "tags": ["pores", "causes", "genetics", "skincare"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0056",
+      "question": "How to treat blackheads?",
+      "answer": "BLACKHEAD TREATMENT: 1) SALICYLIC ACID 2%: Penetrates pores, dissolves sebum (daily or every other day), 2) RETINOL: Prevents clogging, increases cell turnover, 3) CLAY MASKS: Absorb excess oil (2x/week), 4) DOUBLE CLEANSE: Remove all makeup/sunscreen, 5) PROFESSIONAL: Extractions (by esthetician), chemical peels. DON'T: Squeeze (causes scarring), pore strips (temporary, can damage). Takes 6-8 weeks consistency.",
+      "tags": ["blackheads", "acne", "treatment", "pores"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0057",
+      "question": "What is the difference between blackheads and whiteheads?",
+      "answer": "BLACKHEADS (open comedones): Clogged pore OPEN to air, oxidized sebum turns black, flat/slightly raised. WHITEHEADS (closed comedones): Clogged pore CLOSED, white/flesh-colored bumps, sebum trapped under skin. TREATMENT: Both: Salicylic acid 2%, retinol. Blackheads: Clay masks. Whiteheads: May need extraction by professional. DON'T pop/squeeze - causes scarring! Prevention: consistent exfoliation, oil-free products.",
+      "tags": ["blackheads", "whiteheads", "acne", "comparison"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0058",
+      "question": "What is fungal acne and how to treat it?",
+      "answer": "FUNGAL ACNE (Malassezia folliculitis): NOT true acne - yeast overgrowth in follicles. LOOKS LIKE: Uniform tiny bumps (not varying sizes), itchy, on forehead/chest/back, worse in heat/humidity. TREATMENT: 1) Anti-fungal wash (Nizoral/ketoconazole 2x/week), 2) Sulfur soap, 3) Avoid oils/fatty acids in skincare, 4) Oral anti-fungals (severe cases). DIFFERENT from bacterial acne - benzoyl peroxide WON'T work! See dermatologist to confirm.",
+      "tags": ["fungal acne", "malassezia", "treatment", "acne"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0059",
+      "question": "What is the best way to treat body acne?",
+      "answer": "BODY ACNE (back/chest/shoulders): 1) Salicylic acid body wash 2%, 2) Benzoyl peroxide 10% wash (leave on 2-3 mins), 3) Exfoliating gloves/brush (gently), 4) Shower within 30 mins after sweating, 5) Loose cotton clothing, 6) Change sheets weekly, 7) Spray/lotion with salicylic acid. STUBBORN: Oral antibiotics, tretinoin cream, Accutane. Avoid: tight clothes, backpacks (friction), hair products on back.",
+      "tags": ["body acne", "back acne", "chest", "treatment"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0060",
+      "question": "What is the best face mask for acne?",
+      "answer": "ACNE MASKS: 1) CLAY (kaolin, bentonite): Absorb excess oil, deep clean pores, use 2x/week for 10-15 mins, 2) SULFUR: Kills bacteria, reduces oil, for active breakouts, 3) SALICYLIC ACID: Exfoliates, unclogs pores, 1-2x/week, 4) CHARCOAL: Draws out impurities. Don't overuse - can dry skin! Always moisturize after. Best for oily/combination skin. Sensitive: gentle clay like kaolin.",
+      "tags": ["face mask", "acne", "clay", "treatment"],
+      "category": "acne"
+    },
+    {
+      "id": "qa_0061",
+      "question": "What is the best face mask for dry skin?",
+      "answer": "DRY SKIN MASKS: 1) SHEET MASKS: Hyaluronic acid, ceramides, centella (2-3x/week), 2) OVERNIGHT/SLEEPING MASK: Rich, occlusive, locks in moisture, 3) HONEY MASK: Natural humectant, antibacterial, 4) AVOCADO MASK: Healthy fats, nourishing, 5) HYDROGEL MASKS: Cool, soothing, hydrating. Leave on 15-20 mins. Apply on damp skin. Follow with moisturizer. AVOID: Clay masks (too drying).",
+      "tags": ["face mask", "dry skin", "hydration", "treatment"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0062",
+      "question": "What is centella asiatica (cica)?",
+      "answer": "Centella Asiatica (Cica, Tiger Grass): Korean skincare favorite for healing/soothing. BENEFITS: 1) Calms irritation/redness, 2) Repairs skin barrier, 3) Anti-inflammatory, 4) Promotes wound healing, 5) Antioxidant, 6) Boosts collagen. BEST FOR: Sensitive, irritated, acne-prone, damaged barrier. FORMS: Creams, serums, masks. SAFE: All skin types, during pregnancy. Combine with: niacinamide, ceramides. Results in 2-4 weeks.",
+      "tags": ["centella", "cica", "ingredients", "soothing", "sensitive"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0063",
+      "question": "What is snail mucin and does it work?",
+      "answer": "Snail Mucin (Snail Secretion Filtrate): Korean skincare ingredient from snail slime. BENEFITS: 1) Hydrates, 2) Repairs skin barrier, 3) Fades scars/PIH, 4) Calms inflammation, 5) Anti-aging (collagen/elastin). Rich in: hyaluronic acid, glycolic acid, allantoin, peptides. TEXTURE: Slimy, absorbs well. USE: After toner, before moisturizer. SAFE: All skin types. Results in 4-8 weeks. Popular: COSRX Snail Mucin Essence.",
+      "tags": ["snail mucin", "ingredients", "hydration", "korean skincare"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0064",
+      "question": "What is the 10-step Korean skincare routine?",
+      "answer": "K-BEAUTY 10-STEP: 1) Oil cleanser, 2) Water cleanser (double cleanse), 3) Exfoliator (2-3x/week), 4) Toner (hydrating), 5) Essence (lightweight serum), 6) Treatments/Serums (targeted), 7) Sheet mask (optional, 2-3x/week), 8) Eye cream, 9) Moisturizer, 10) Sunscreen (morning) or Sleeping mask (night). DON'T need all steps daily! Customize. Focus: hydration, layering lightweight products, consistency.",
+      "tags": ["korean skincare", "routine", "10-step", "k-beauty"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0065",
+      "question": "What is essence in skincare?",
+      "answer": "ESSENCE: Lightweight, watery serum - key step in K-beauty. BETWEEN toner + serum. BENEFITS: 1) Hydrates, 2) Preps skin for other products, 3) Boosts absorption, 4) Adds glow. INGREDIENTS: Ferments (yeast, galactomyces), hyaluronic acid, niacinamide. HOW: Pat onto skin after toner. POPULAR: SK-II Facial Treatment Essence, Missha Time Revolution. NOT essential but nice hydration boost. Best for dry/normal skin.",
+      "tags": ["essence", "korean skincare", "hydration", "k-beauty"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0066",
+      "question": "What is the glass skin trend?",
+      "answer": "GLASS SKIN: K-beauty trend - extremely smooth, luminous, pore-less, reflective skin (like glass). ACHIEVE: 1) HYDRATION: Multiple layers (toner, essence, serum, moisturizer), 2) EXFOLIATION: Regular AHA/BHA for smooth texture, 3) SERUMS: Hyaluronic acid, niacinamide, vitamin C, 4) HIGHLIGHTER: Strategic placement, 5) SUNSCREEN: Prevents texture/pigmentation. Takes months of consistent hydration + skin health. Not just makeup - actual skin condition!",
+      "tags": ["glass skin", "korean skincare", "glow", "trend"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0067",
+      "question": "What is the best vitamin C serum?",
+      "answer": "BEST VITAMIN C: L-Ascorbic Acid 10-20% with: Vitamin E (boosts stability), Ferulic acid (boosts stability + SPF). pH 2.5-3.5 (too low = irritation). POPULAR: SkinCeuticals C E Ferulic (gold standard, expensive), Timeless Vitamin C+E (affordable dupe), Paula's Choice C15 Super Booster, The Ordinary Vitamin C 23% (strong). PACKAGING: Dark/opaque bottle (light degrades it). Use within 3-6 months. Store cool, dark place.",
+      "tags": ["vitamin c", "serum", "products", "recommendations"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0068",
+      "question": "What is the best retinol product for beginners?",
+      "answer": "BEGINNER RETINOL (0.25-0.5%): 1) The Ordinary Retinol 0.2% in Squalane (affordable, gentle), 2) CeraVe Resurfacing Retinol Serum (ceramides for barrier), 3) Neutrogena Rapid Wrinkle Repair (retinol SA - stable form), 4) La Roche-Posay Retinol B3 Serum (niacinamide soothes). START: 2x/week, increase slowly. BUFFER: Apply moisturizer first, then retinol (less irritation). Wait 20 mins before moisturizer on top.",
+      "tags": ["retinol", "products", "beginners", "recommendations"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0069",
+      "question": "What is the best moisturizer for oily skin?",
+      "answer": "OILY SKIN MOISTURIZERS: 1) Gel-based (oil-free): Neutrogena Hydro Boost Water Gel, 2) Lightweight: La Roche-Posay Effaclar Mat, 3) Mattifying: The Ordinary Natural Moisturizing Factors, 4) Niacinamide: CeraVe PM Facial Moisturizing Lotion, 5) Korean: COSRX Oil-Free Ultra-Moisturizing Lotion. LOOK FOR: Non-comedogenic, oil-free, lightweight. AVOID: Heavy creams, coconut oil, shea butter. Oily skin STILL needs moisturizer!",
+      "tags": ["moisturizer", "oily skin", "products", "recommendations"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0070",
+      "question": "What is the best moisturizer for dry skin?",
+      "answer": "DRY SKIN MOISTURIZERS: 1) CeraVe Moisturizing Cream (ceramides, affordable), 2) La Roche-Posay Toleriane Double Repair (niacinamide), 3) Vanicream Moisturizing Cream (sensitive), 4) First Aid Beauty Ultra Repair Cream (colloidal oatmeal), 5) Drunk Elephant Lala Retro (rich, luxury). INGREDIENTS: Ceramides, hyaluronic acid, glycerin, shea butter. TEXTURE: Thick cream. Apply on DAMP skin. Layer Vaseline/Aquaphor on top at night (occlusive).",
+      "tags": ["moisturizer", "dry skin", "products", "recommendations"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0071",
+      "question": "What is the best sunscreen for oily/acne-prone skin?",
+      "answer": "SUNSCREEN FOR OILY SKIN: 1) EltaMD UV Clear SPF 46 (niacinamide, matte), 2) La Roche-Posay Anthelios Clear Skin SPF 60 (oil-free), 3) Neutrogena Clear Face SPF 55 (lightweight), 4) Biore UV Aqua Rich Watery Essence SPF 50 (Japanese, no white cast), 5) Paula's Choice RESIST Youth-Extending SPF 50 (antioxidants). LOOK FOR: Oil-free, non-comedogenic, matte finish, lightweight. Gel or fluid texture best.",
+      "tags": ["sunscreen", "oily skin", "acne", "products", "recommendations"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0072",
+      "question": "What is chemical sunscreen vs mineral sunscreen?",
+      "answer": "CHEMICAL (Organic): Absorbs UV rays, converts to heat. Ingredients: Avobenzone, octinoxate, oxybenzone. PROS: No white cast, lightweight, cosmetically elegant. CONS: May irritate sensitive skin, needs 20 mins to work, some ingredients controversial. MINERAL (Physical): Reflects UV rays. Ingredients: Zinc oxide, titanium dioxide. PROS: Gentle, works immediately, better for sensitive/rosacea. CONS: White cast (especially dark skin), thicker texture. BEST: Mineral for sensitive, chemical for daily cosmetic elegance.",
+      "tags": ["sunscreen", "chemical", "mineral", "comparison"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0073",
+      "question": "How often should I reapply sunscreen?",
+      "answer": "REAPPLY: Every 2 hours if OUTDOORS/in sun. INDOORS: Morning application usually sufficient (UVA penetrates windows). AFTER: Swimming, sweating, towel-drying (even if labeled water-resistant). AMOUNT: 1/4 teaspoon for face, 2 finger-lengths. ALTERNATIVES for reapplication over makeup: Powder SPF (not as effective), SPF setting spray, stick sunscreen. BEST: Remove makeup, reapply cream, redo makeup OR use powder SPF for touch-ups.",
+      "tags": ["sunscreen", "reapplication", "spf", "protection"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0074",
+      "question": "Do I need sunscreen indoors?",
+      "answer": "YES, if near windows! UVA rays (aging) penetrate glass. UVB (burning) blocked. SITUATIONS: 1) Office with windows, 2) Home office near window, 3) Driving (side windows let UVA), 4) All day in bright room. DON'T NEED: Basement, no windows, minimal natural light. BLUE LIGHT from screens: Minimal damage, not proven to need protection. PRIORITY: Windows > screens. Minimum SPF 30, broad spectrum.",
+      "tags": ["sunscreen", "indoors", "uva", "protection"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0075",
+      "question": "What is blue light and does it damage skin?",
+      "answer": "BLUE LIGHT (HEV): From screens, sun, LED lights. CONCERNS: May cause pigmentation, oxidative stress, premature aging. EVIDENCE: Limited, mostly lab studies (not real-world conditions). PROTECTION: 1) Mineral sunscreen (zinc, titanium block some), 2) Antioxidant serums (vitamin C, niacinamide, resveratrol), 3) Iron oxides in sunscreen (tinted). VERDICT: Not as harmful as UV. Focus on SPF first. Blue light protection = bonus, not necessity.",
+      "tags": ["blue light", "screens", "aging", "protection"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0076",
+      "question": "What is the best cleanser for oily skin?",
+      "answer": "OILY SKIN CLEANSERS: 1) Gel/foaming: CeraVe Foaming Facial Cleanser, 2) Salicylic acid: La Roche-Posay Effaclar Medicated Gel Cleanser, 3) Gentle: Neutrogena Ultra Gentle Daily Cleanser Foaming, 4) Korean: COSRX Low pH Good Morning Gel Cleanser. AVOID: Over-cleansing (triggers MORE oil), harsh sulfates. Cleanse 2x/day max. LOOK FOR: Non-comedogenic, oil-free, pH-balanced (5-6). Don't strip skin - need gentle but effective.",
+      "tags": ["cleanser", "oily skin", "products", "recommendations"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0077",
+      "question": "What is the best cleanser for dry skin?",
+      "answer": "DRY SKIN CLEANSERS: 1) Cream: CeraVe Hydrating Facial Cleanser, 2) Gentle: La Roche-Posay Toleriane Hydrating Gentle Cleanser, 3) Milky: Fresh Soy Face Cleanser, 4) Oil-based: DHC Deep Cleansing Oil, 5) Micellar: Bioderma Sensibio H2O. AVOID: Foaming cleansers, sulfates, hot water. MORNING: Just water or gentle wipe. EVENING: Cream cleanser. LOOK FOR: Ceramides, glycerin, no fragrance. Don't over-cleanse - 1x/day evening may be enough!",
+      "tags": ["cleanser", "dry skin", "products", "recommendations"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0078",
+      "question": "What is micellar water and how to use it?",
+      "answer": "MICELLAR WATER: Gentle cleanser with micelles (oil molecules) that attract dirt/makeup/oil. NO RINSING needed (but recommended for best results). USE: 1) As first cleanse (removes makeup), 2) Morning cleanse (lazy/travel), 3) Quick refresh, 4) Sensitive skin (no rubbing). HOW: Soak cotton pad, swipe face gently. POPULAR: Bioderma Sensibio, Garnier SkinActive. NOT A SUBSTITUTE for full cleansing routine at night!",
+      "tags": ["micellar water", "cleanser", "makeup removal", "products"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0079",
+      "question": "What is the best way to remove makeup?",
+      "answer": "MAKEUP REMOVAL: 1) OIL CLEANSER or CLEANSING BALM (dissolves makeup, sunscreen, best for waterproof), 2) MICELLAR WATER (gentle, quick), 3) MAKEUP REMOVER WIPES (convenient, not thorough), 4) DOUBLE CLEANSE (oil cleanser + water cleanser). BEST: Oil-based first step, then gentle cleanser. DON'T: Sleep in makeup (clogs pores, accelerates aging), rub eyes hard (wrinkles, lash loss). Use gentle, downward motions.",
+      "tags": ["makeup removal", "cleansing", "routine", "oil cleanser"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0080",
+      "question": "What is toner and do I need it?",
+      "answer": "TONER: Liquid applied after cleansing. OLD: Alcohol-based, stripping (skip these). NEW: Hydrating, pH-balancing, treatment. TYPES: 1) HYDRATING: Hyaluronic acid, glycerin, 2) EXFOLIATING: AHA/BHA (2-3x/week), 3) SOOTHING: Centella, rose water, 4) BRIGHTENING: Vitamin C, niacinamide. NEED? Not essential, but helps: prep skin, add hydration, deliver actives. Skip if: minimal routine, tight budget. Apply with hands (better than cotton).",
+      "tags": ["toner", "skincare", "routine", "hydration"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0081",
+      "question": "What is face oil and when to use it?",
+      "answer": "FACE OIL: Concentrated plant oils (jojoba, rosehip, squalane, marula). BENEFITS: 1) Moisturizes, 2) Strengthens barrier, 3) Adds glow, 4) Seals in hydration. WHEN: Last step PM (after moisturizer) OR mix with moisturizer. BEST FOR: Dry, dehydrated, mature skin. CAN USE on oily skin (if jojoba/squalane). AVOID: Heavy oils on acne-prone. HOW: 2-3 drops, press into skin. POPULAR: The Ordinary 100% Organic Cold-Pressed Rose Hip Seed Oil.",
+      "tags": ["face oil", "moisturizer", "dry skin", "products"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0082",
+      "question": "What is squalane and is it good for skin?",
+      "answer": "SQUALANE: Lightweight, stable oil (from olives or sugarcane). BENEFITS: 1) Moisturizes without greasiness, 2) Mimics skin's natural oils, 3) Non-comedogenic, 4) Softens, smooths, 5) Antioxidant. BEST FOR: ALL skin types (even oily!). USE: Morning or evening, alone or mixed with moisturizer, 2-3 drops. DIFFERENT from squalene (unstable form). POPULAR: The Ordinary 100% Plant-Derived Squalane, Biossance Squalane + Vitamin C Rose Oil.",
+      "tags": ["squalane", "face oil", "ingredients", "moisturizer"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0083",
+      "question": "What is rosehip oil and what does it do?",
+      "answer": "ROSEHIP OIL: From rose seeds, rich in vitamin A (natural retinol), vitamin C, essential fatty acids. BENEFITS: 1) Fades scars/hyperpigmentation, 2) Anti-aging (vitamin A), 3) Hydrates, 4) Evens skin tone, 5) Reduces redness. TEXTURE: Lightweight, absorbs well. USE: Evening (vitamin A is photosensitive), 2-3 drops after moisturizer. BEST FOR: Dry, aging, scarred skin. CAUTION: Acne-prone may break out. Patch test!",
+      "tags": ["rosehip oil", "face oil", "ingredients", "scars"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0084",
+      "question": "What oils should I avoid on my face?",
+      "answer": "AVOID (comedogenic = clog pores): 1) COCONUT OIL (highly comedogenic, okay for body), 2) Palm oil, 3) Wheat germ oil, 4) Linseed oil. CAUTION (may cause breakouts): Olive oil, avocado oil (great for dry skin, but test first). ESSENTIAL OILS: Fragrance/irritants - lavender, tea tree (high concentration), citrus oils (photosensitive). SAFE FOR MOST: Jojoba, squalane, rosehip, argan (if not acne-prone), marula. Always patch test!",
+      "tags": ["face oil", "comedogenic", "acne", "avoid"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0085",
+      "question": "What is the best eye cream?",
+      "answer": "EYE CREAM INGREDIENTS: 1) CAFFEINE: Reduces puffiness (CeraVe Eye Repair Cream), 2) VITAMIN C: Brightens dark circles (Ole Henriksen Banana Bright), 3) RETINOL: Anti-aging, wrinkles (RoC Retinol Correxion), 4) PEPTIDES: Firming (The Ordinary Caffeine Solution 5% + EGCG), 5) HYALURONIC ACID: Hydrates fine lines (Neutrogena Hydro Boost Eye Gel-Cream). Apply ring finger (gentlest), pat don't rub, avoid pulling skin.",
+      "tags": ["eye cream", "dark circles", "wrinkles", "products", "recommendations"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0086",
+      "question": "Do I really need eye cream or can I use regular moisturizer?",
+      "answer": "YOU CAN use regular moisturizer around eyes IF: Gentle formula, no fragrance, no irritating actives. EYE CREAM WORTH IT if: 1) Specific concerns (dark circles, puffiness, crow's feet), 2) Targeted ingredients (caffeine, peptides), 3) Thicker/richer than face moisturizer, 4) Sensitive eyes. SKIP: If happy with face moisturizer, tight budget. PRIORITY: SPF + retinol for face > eye cream. Eye area is thinner, more delicate - test products first.",
+      "tags": ["eye cream", "moisturizer", "routine", "necessary"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0087",
+      "question": "What causes puffy eyes in the morning?",
+      "answer": "MORNING PUFFINESS causes: 1) SALT: High-sodium diet, water retention, 2) ALCOHOL: Dehydration, 3) CRYING: Fluid accumulation, 4) ALLERGIES: Inflammation, 5) SLEEP POSITION: Lying flat (fluids pool), 6) LACK OF SLEEP, 7) AGING (fat pads shift). FIX: 1) Cold compress/ice, 2) Caffeine eye cream, 3) Sleep on back/elevated, 4) Less salt, 5) Stay hydrated, 6) Lymphatic drainage massage (gentle tapping).",
+      "tags": ["puffy eyes", "eyes", "causes", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0088",
+      "question": "How to do facial massage for lymphatic drainage?",
+      "answer": "LYMPHATIC DRAINAGE MASSAGE: Reduces puffiness, promotes circulation. TECHNIQUE: 1) Apply face oil/serum for slip, 2) Gentle pressure, slow strokes, 3) Always move OUTWARD + DOWNWARD (toward lymph nodes), 4) Start center of face, move to ears/hairline/neck. TOOLS: Gua sha, jade roller (store in fridge). STEPS: Forehead → temples, under eyes → ears, cheeks → ears, jawline → neck. 5-10 mins, 3-5x/week. Best: Morning (reduces puffiness).",
+      "tags": ["facial massage", "lymphatic drainage", "puffiness", "technique"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0089",
+      "question": "What is gua sha and does it work?",
+      "answer": "GUA SHA: Flat stone tool (jade, rose quartz) for facial massage. BENEFITS: 1) Lymphatic drainage (reduces puffiness), 2) Increases circulation (glow), 3) Relaxes facial muscles, 4) May improve product absorption, 5) Sculpts/defines (temporarily). TECHNIQUE: Gentle upward/outward strokes, 5-15° angle, use oil. RESULTS: Temporary (puffiness, glow) immediate, long-term (contour) questionable. CAUTION: Gentle pressure! Too hard = broken capillaries. Not for active acne/rosacea.",
+      "tags": ["gua sha", "facial massage", "tool", "lymphatic"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0090",
+      "question": "What is a jade roller and what does it do?",
+      "answer": "JADE ROLLER: Handheld tool with rolling stone (jade, rose quartz, metal). BENEFITS: 1) COOLING (reduces puffiness - store in fridge!), 2) Lymphatic drainage, 3) Relaxing, 4) May boost circulation. TECHNIQUE: Gentle pressure, roll UPWARD + OUTWARD (forehead, cheeks, jawline, neck). Use smaller end for eyes. RESULTS: Temporary puffiness reduction, relaxation. NOT: Sculpt face permanently, reduce wrinkles. PREFER: Gua sha (more effective) but rollers easier for beginners.",
+      "tags": ["jade roller", "facial massage", "tool", "puffiness"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0091",
+      "question": "What professional treatments are best for acne scars?",
+      "answer": "ACNE SCAR TREATMENTS: 1) MICRONEEDLING: Stimulates collagen, 4-6 sessions, $200-700/session, minimal downtime, 2) LASER RESURFACING: Fractional CO2/erbium, 1-3 sessions, $1000-2500, 1-2 weeks downtime, best results, 3) CHEMICAL PEELS: TCA 20-30%, series of 3-6, $150-300, mild downtime, 4) SUBCISION: For ice-pick scars, releases tethered scars, combines with filler. START: Topicals (retinol, vitamin C) 6 months, then professional if needed.",
+      "tags": ["acne scars", "professional", "laser", "microneedling", "treatment"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0092",
+      "question": "What is microneedling and does it work?",
+      "answer": "MICRONEEDLING: Tiny needles create micro-injuries → stimulates collagen/elastin. TREATS: 1) Acne scars, 2) Fine lines/wrinkles, 3) Texture, 4) Large pores, 5) Stretch marks. PROFESSIONAL: 0.5-2.5mm depth, 4-6 sessions, $200-700. AT-HOME: 0.25-0.5mm (dermaroller), minimal results. DOWNTIME: Redness 1-3 days. RESULTS: 3-6 months (collagen takes time). COMBINE: PRP (vampire facial), vitamin C, hyaluronic acid. AVOID: Active acne, rosacea, eczema. Effective but needs professional for depth!",
+      "tags": ["microneedling", "professional", "acne scars", "treatment"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0093",
+      "question": "What is a chemical peel?",
+      "answer": "CHEMICAL PEEL: Acid solution removes top skin layers. TYPES: 1) SUPERFICIAL (AHA/BHA 20-30%): Brightens, mild texture, no downtime, 2) MEDIUM (TCA 25-35%): Wrinkles, pigmentation, scars, 3-7 days peel, 3) DEEP (Phenol 50%+): Severe wrinkles/scars, weeks downtime, rare. DIY: Not recommended (burns!). PROFESSIONAL: Dermatologist/esthetician. Series of 3-6, monthly. AFTERCARE: SPF crucial! Skin sensitive. BEST FOR: Pigmentation, texture, anti-aging.",
+      "tags": ["chemical peel", "professional", "treatment", "exfoliation"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0094",
+      "question": "What is Botox and how does it work?",
+      "answer": "BOTOX (Botulinum Toxin): Injectable that relaxes muscles → reduces wrinkles. TREATS: 1) Forehead lines, 2) Crow's feet, 3) Frown lines (11s), 4) Bunny lines. HOW: Blocks nerve signals, muscles can't contract. PROCEDURE: 10-15 mins, tiny injections. RESULTS: 3-6 months, 2 weeks to see full effect. COST: $300-600/area. PREVENTION: Start 20s-30s (prevents deep lines). NOT FOR: Static wrinkles (need fillers). Safe when done by qualified injector!",
+      "tags": ["botox", "professional", "wrinkles", "injectable", "anti-aging"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0095",
+      "question": "What are dermal fillers?",
+      "answer": "DERMAL FILLERS: Injectable gel (usually hyaluronic acid) that adds volume. TREATS: 1) Nasolabial folds, 2) Marionette lines, 3) Thin lips, 4) Under-eye hollows, 5) Cheek volume loss, 6) Jawline definition. TYPES: Juvederm, Restylane, Sculptra (collagen stimulator). DURATION: 6-18 months depending on type/area. COST: $600-1200/syringe. REVERSIBLE: Hyaluronidase dissolves HA fillers. RISKS: Migration, lumps if overfilled. Choose experienced injector!",
+      "tags": ["fillers", "professional", "volume", "injectable", "anti-aging"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0096",
+      "question": "What is laser treatment for skin?",
+      "answer": "LASER TYPES: 1) ABLATIVE (CO2, Erbium): Remove skin layers, deep wrinkles/scars, 1-2 weeks downtime, dramatic results, 2) NON-ABLATIVE (Fraxel): Heats beneath surface, less downtime, gentler, 3) IPL (Intense Pulsed Light): Pigmentation, redness, broken capillaries, no downtime. TREATS: Scars, wrinkles, pigmentation, texture, rosacea, hair removal. SESSIONS: 3-5 for non-ablative. COST: $500-3000. CRUCIAL: SPF after! Choose board-certified dermatologist.",
+      "tags": ["laser", "professional", "treatment", "resurfacing"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0097",
+      "question": "What is PRP facial (vampire facial)?",
+      "answer": "PRP (Platelet-Rich Plasma) FACIAL: 1) Draw your blood, 2) Spin to separate platelets, 3) Apply to face during/after microneedling OR inject. BENEFITS: Growth factors stimulate: collagen, healing, rejuvenation. TREATS: Texture, fine lines, scars, tone. RESULTS: Gradual over 3-6 months, 3 sessions recommended. COST: $700-1500/session. DOWNTIME: Redness 1-3 days. SAFE: Uses your own blood. HYPE: Some, but less dramatic than laser/filler. Best combined with microneedling.",
+      "tags": ["prp", "vampire facial", "professional", "treatment", "microneedling"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0098",
+      "question": "What is the difference between dermatologist and esthetician?",
+      "answer": "DERMATOLOGIST: Medical doctor (MD/DO), 12+ years training, diagnoses/treats skin diseases, prescribes medication, performs medical procedures (surgery, laser, injectables). FOR: Acne (severe), rosacea, eczema, psoriasis, skin cancer, prescriptions (tretinoin, isotretinoin). ESTHETICIAN: Skincare specialist, 300-600 hours training (varies by state), facials/peels/extractions, product recommendations. FOR: Facials, extractions, superficial peels, education. OVERLAP: Some procedures (chemical peels, microdermabrasion). Choose based on concern severity!",
+      "tags": ["dermatologist", "esthetician", "comparison", "professional"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0099",
+      "question": "When should I see a dermatologist?",
+      "answer": "SEE DERMATOLOGIST for: 1) SEVERE ACNE (cystic, not improving OTC), 2) SKIN CANCER screening (annual, more if history), 3) NEW/CHANGING MOLES, 4) PERSISTENT RASH (not healing, spreading), 5) SEVERE ECZEMA/PSORIASIS, 6) HAIR LOSS (sudden, patchy), 7) PRESCRIPTION needs (tretinoin, isotretinoin, spironolactone), 8) BEFORE injectables/laser. DON'T WAIT: Changing moles, bleeding lesions, painful cysts. Prevention: Annual skin check, especially if sun damage/family history.",
+      "tags": ["dermatologist", "when to see", "medical", "skin health"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0100",
+      "question": "What is isotretinoin (Accutane)?",
+      "answer": "ISOTRETINOIN (Accutane): Oral retinoid for SEVERE acne. HOW: Shrinks oil glands, reduces bacteria, prevents clogging. COURSE: 4-6 months, dosage based on weight. RESULTS: 85% clear skin, often permanent. SIDE EFFECTS: Dry skin/lips (extreme), sun sensitivity, joint pain, mood changes (rare), liver enzymes (monitor). PREGNANCY: SEVERE birth defects - 2 forms birth control required, monthly pregnancy tests. MONITORING: Monthly blood tests, iPledge program. LAST RESORT but highly effective!",
+      "tags": ["isotretinoin", "accutane", "acne", "prescription", "severe"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0101",
+      "question": "What is spironolactone for acne?",
+      "answer": "SPIRONOLACTONE: Oral medication (originally blood pressure drug) for HORMONAL ACNE in women. HOW: Blocks androgens (male hormones) → less oil production. BEST FOR: Adult women with jawline/chin acne, PCOS. DOSE: 50-200mg daily. RESULTS: 3-6 months. SIDE EFFECTS: Increased urination, dizziness (lowers BP), irregular periods initially. MONITORING: Blood tests (potassium, kidney). NOT FOR: Men (feminizing effects), pregnancy. Combine with topicals for best results. Prescription only!",
+      "tags": ["spironolactone", "hormonal acne", "prescription", "women"],
+      "category": "treatments"
+    },
+    {
+      "id": "qa_0102",
+      "question": "What is the best skincare routine order?",
+      "answer": "ROUTINE ORDER (thinnest to thickest): MORNING: 1) Cleanser, 2) Toner, 3) Serum (vitamin C), 4) Eye cream, 5) Moisturizer, 6) Sunscreen SPF 30+. EVENING: 1) Oil cleanser (if makeup/sunscreen), 2) Water cleanser, 3) Exfoliant (2-3x/week), 4) Toner, 5) Treatment serum (retinol, niacinamide), 6) Eye cream, 7) Moisturizer, 8) Face oil (optional). WAIT: 1-2 mins between steps. RETINOL: On dry skin, wait 20 mins before/after other products.",
+      "tags": ["routine", "order", "layering", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0103",
+      "question": "What is skin purging and how long does it last?",
+      "answer": "SKIN PURGING: Temporary breakouts when starting actives (retinol, AHA/BHA, vitamin C, niacinamide). WHY: Increased cell turnover brings hidden clogs to surface faster. SIGNS: Breakouts in usual areas, whiteheads/blackheads, NOT new areas, NOT cysts. DURATION: 4-8 weeks (one full skin cycle). DIFFERENT FROM REACTION: Purging = temporary, same spots. Reaction = new areas, rash, burning. IF PURGING: Continue product, it will clear! IF REACTION: Stop immediately.",
+      "tags": ["purging", "breakout", "retinol", "acne"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0104",
+      "question": "What is the difference between skin purging and breakout?",
+      "answer": "PURGING: Temporary, from new actives (retinol, acids), same areas you usually break out, whiteheads/blackheads, clears in 4-8 weeks, CONTINUE product. BREAKOUT/REACTION: From irritation/allergy, NEW areas, painful cysts, redness/rash/burning, worsens over time, STOP product immediately. HOW TO TELL: Location (usual vs new), type (surface vs deep), timeline (clears vs worsens), other symptoms (just acne vs redness/burning). When in doubt, stop product, see if clears in 1 week.",
+      "tags": ["purging", "breakout", "reaction", "comparison", "acne"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0105",
+      "question": "What is the best budget skincare routine?",
+      "answer": "AFFORDABLE ROUTINE: MORNING: 1) CeraVe Foaming Cleanser ($13), 2) The Ordinary Niacinamide 10% ($6), 3) CeraVe Moisturizing Lotion ($14), 4) Neutrogena Clear Face SPF 55 ($10). EVENING: 1) Same cleanser, 2) The Ordinary Retinol 0.2% ($6) 3x/week, 3) Same moisturizer. TOTAL: ~$50 for 3+ months. SKIP: Expensive serums, trendy brands. INVEST IN: Sunscreen, retinol, basic cleanser/moisturizer. DRUGSTORE GEMS: CeraVe, Neutrogena, The Ordinary, Vanicream.",
+      "tags": ["budget", "affordable", "routine", "drugstore", "cheap"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0106",
+      "question": "Are expensive skincare products worth it?",
+      "answer": "SOMETIMES. WORTH IT: 1) Prescription-strength retinoids (can't buy cheaper), 2) High-quality vitamin C (stable formulation), 3) Sunscreen you'll actually wear, 4) Products with clinical studies. NOT WORTH IT: 1) Basic cleansers/moisturizers (drugstore = same), 2) Trendy ingredients without proof, 3) Luxury packaging, 4) Celebrity brands (you're paying for marketing). FOCUS: Active ingredients %, formulation, NOT price/brand. CeraVe/Ordinary = as effective as luxury for basics. Save money, invest in professional treatments!",
+      "tags": ["expensive", "worth it", "products", "luxury", "budget"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0107",
+      "question": "What is the simplest effective skincare routine?",
+      "answer": "MINIMAL ROUTINE (3-4 steps): MORNING: 1) Gentle cleanser (OR just water), 2) Moisturizer, 3) Sunscreen SPF 30+. EVENING: 1) Cleanser, 2) Treatment (retinol 3x/week OR niacinamide daily), 3) Moisturizer. THAT'S IT! Add only if needed: Eye cream (dark circles), exfoliant (texture). SKIP: Toners, essences, 10 serums. EFFECTIVE: Consistency > quantity. This covers: cleanse, treat, protect. Perfect for beginners, busy people, minimal budgets.",
+      "tags": ["minimal", "simple", "routine", "basic", "beginner"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0108",
+      "question": "What skincare ingredients should not be mixed?",
+      "answer": "AVOID MIXING (same routine): 1) RETINOL + AHA/BHA = too irritating (use different nights), 2) RETINOL + VITAMIN C = different pH (C morning, retinol night), 3) NIACINAMIDE + VITAMIN C = OLD MYTH - safe to mix!, 4) BENZOYL PEROXIDE + RETINOL = can deactivate retinol (different times), 5) AHA + BHA + RETINOL = over-exfoliation (choose one). SAFE: Niacinamide + anything, Hyaluronic acid + anything, Peptides + most. START ONE AT A TIME (4 weeks) to identify reactions!",
+      "tags": ["mixing", "ingredients", "combinations", "avoid", "layering"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0109",
+      "question": "What is the best age to start anti-aging skincare?",
+      "answer": "START NOW! PREVENTION > TREATMENT. BY AGE: TEENS: Sunscreen (most important anti-aging), gentle routine. 20s: Add retinol 0.25-0.5%, vitamin C, preventive care. 30s: Consistent retinol, vitamin C, peptides, eye cream, professional treatments. 40s+: Stronger retinoids (tretinoin), peptides, AHAs, consider Botox/fillers. NEVER TOO LATE: Retinoids work at any age! PRIORITY: SPF 30+ daily > everything else. Sun damage = 80% of visible aging!",
+      "tags": ["anti-aging", "age", "prevention", "start", "retinol"],
+      "category": "anti-aging"
+    },
+    {
+      "id": "qa_0110",
+      "question": "Can skincare reverse aging?",
+      "answer": "CAN IMPROVE, NOT REVERSE: 1) RETINOIDS: Reduce fine lines, improve texture (proven), 2) VITAMIN C: Brighten, antioxidant protection, 3) SUNSCREEN: PREVENTS further damage, 4) PEPTIDES: Stimulate collagen, 5) HYALURONIC ACID: Plump (temporary). LIMITATIONS: Can't restore lost volume, deep wrinkles, sagging (need fillers/surgery). REALISTIC: Improve by 30-50% with consistent use (6-12 months). BEST: Prevention from 20s + professional treatments (Botox, laser) for significant reversal. Skincare maintains, procedures transform.",
+      "tags": ["anti-aging", "reverse", "wrinkles", "realistic", "expectations"],
+      "category": "anti-aging"
+    },
+    {
+      "id": "qa_0111",
+      "question": "What causes premature aging?",
+      "answer": "AGING ACCELERATORS: 1) SUN EXPOSURE (80% of aging! UVA breaks down collagen), 2) SMOKING (reduces blood flow, damages elastin), 3) POOR SLEEP (<7hrs damages skin barrier), 4) STRESS (cortisol breaks down collagen), 5) SUGAR/PROCESSED FOODS (glycation damages proteins), 6) ALCOHOL (dehydrates, dilates vessels), 7) POLLUTION (free radicals), 8) LACK OF SKINCARE. GENETICS = 20%, LIFESTYLE = 80%. Prevention: SPF, don't smoke, sleep well, manage stress, healthy diet!",
+      "tags": ["aging", "premature", "causes", "sun damage", "lifestyle"],
+      "category": "anti-aging"
+    },
+    {
+      "id": "qa_0112",
+      "question": "Does drinking water improve skin?",
+      "answer": "YES, but not a miracle: 1) HYDRATES from within, 2) Plumps skin (reduces fine line appearance), 3) Helps skin barrier function, 4) Flushes toxins, 5) Improves elasticity. NEED: 8-10 glasses (2-2.5L) daily. LIMITS: Won't fix dry skin alone (need topical moisturizers), won't clear acne, won't erase wrinkles. DEHYDRATION SIGNS: Dull skin, more visible lines, dark circles, flaky patches. BOOST: Water-rich foods (cucumber, watermelon), limit caffeine/alcohol (diuretics).",
+      "tags": ["water", "hydration", "lifestyle", "skin health"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0113",
+      "question": "What vitamins are good for skin?",
+      "answer": "TOPICAL: 1) VITAMIN C: Antioxidant, brightening, collagen, 2) VITAMIN A (retinol): Anti-aging, acne, texture, 3) VITAMIN E: Antioxidant, moisturizing, healing, 4) VITAMIN B3 (niacinamide): Oil control, pores, redness. ORAL: 1) VITAMIN C: Collagen production, antioxidant, 2) VITAMIN E: Antioxidant, 3) VITAMIN D: Skin barrier, inflammation, 4) BIOTIN (B7): Hair/nails (skin less clear), 5) OMEGA-3: Anti-inflammatory. BEST: Topical > oral for skin. Oral supplements if deficient. Whole foods > pills!",
+      "tags": ["vitamins", "supplements", "nutrition", "skin health"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0114",
+      "question": "Does collagen supplements help skin?",
+      "answer": "MIXED EVIDENCE: Some studies show improvement in hydration, elasticity. THEORY: Collagen peptides absorbed → stimulate your own collagen. REALITY: Digestive system breaks down proteins, unclear how much reaches skin. BETTER: TOPICAL retinoids (proven collagen boost), vitamin C, peptides. IF TRYING: Hydrolyzed collagen peptides, 2.5-10g daily, 8-12 weeks minimum. FOOD SOURCES: Bone broth, fish, chicken, eggs. VERDICT: May help slightly, but not miracle. Focus on proven topicals + SPF first!",
+      "tags": ["collagen", "supplements", "anti-aging", "skin health"],
+      "category": "lifestyle"
+    },
+    {
+      "id": "qa_0115",
+      "question": "What is the best skincare routine for men?",
+      "answer": "MEN'S ROUTINE (simple, effective): MORNING: 1) Gentle cleanser (CeraVe Foaming), 2) Moisturizer with SPF 30+ OR separate moisturizer + sunscreen, 3) Eye cream if dark circles/puffiness. EVENING: 1) Cleanser, 2) Retinol 0.5% 3x/week (anti-aging, texture), 3) Moisturizer. SHAVING: 1) Pre-shave oil/warm water, 2) Quality cream/gel, 3) Sharp blade, 4) Aftershave balm (alcohol-free). WEEKLY: Exfoliant 2x. Men's skin: thicker, oilier, needs same care as women's! Don't skip SPF.",
+      "tags": ["men", "routine", "skincare", "shaving"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0116",
+      "question": "How to treat razor burn and ingrown hairs?",
+      "answer": "PREVENT: 1) Exfoliate 2x/week (lifts trapped hairs), 2) Warm water softens hair, 3) Sharp blade (change often), 4) Shave WITH grain first, 5) Quality shaving cream, 6) Don't press hard, 7) Rinse with cold water after. TREAT RAZOR BURN: 1) Aloe vera gel, 2) Hydrocortisone 1%, 3) Avoid shaving until healed. INGROWN HAIRS: 1) Salicylic acid 2%, 2) Gentle exfoliation, 3) DON'T pick/squeeze, 4) Sterilized tweezers if needed. CHRONIC: Consider laser hair removal.",
+      "tags": ["razor burn", "ingrown hairs", "shaving", "men", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0117",
+      "question": "What is the best skincare for teenagers?",
+      "answer": "TEEN ROUTINE (13-19): MORNING: 1) Gentle cleanser (CeraVe Foaming if oily, Hydrating if normal/dry), 2) Oil-free moisturizer, 3) Sunscreen SPF 30+. EVENING: 1) Cleanser, 2) Benzoyl peroxide 2.5% or Salicylic acid 2% (if acne), 3) Moisturizer. AVOID: Harsh scrubs, over-washing (triggers more oil), picking, too many products. START SIMPLE! Add retinol in late teens if needed (0.25%). FOCUS: SPF (prevent future damage), treat acne gently, don't damage barrier.",
+      "tags": ["teenagers", "teens", "routine", "acne", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0118",
+      "question": "Is skincare safe during pregnancy?",
+      "answer": "SAFE: 1) Vitamin C, 2) Niacinamide, 3) Hyaluronic acid, 4) Azelaic acid (topical), 5) Glycolic/Lactic acid (low %), 6) Mineral sunscreen, 7) Ceramides, 8) Peptides. AVOID: 1) RETINOIDS (prescription + OTC) - birth defects, 2) High-dose salicylic acid (low % okay), 3) Hydroquinone, 4) Certain essential oils, 5) Oral isotretinoin (severe defects). ALWAYS: Consult OB-GYN, dermatologist. Pregnancy = hormonal changes, may worsen acne/melasma. Focus: gentle, safe ingredients.",
+      "tags": ["pregnancy", "safe", "avoid", "skincare", "retinol"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0119",
+      "question": "What is pregnancy skincare routine?",
+      "answer": "PREGNANCY-SAFE ROUTINE: MORNING: 1) Gentle cleanser, 2) Vitamin C serum 10-20%, 3) Niacinamide (melasma prevention), 4) Moisturizer, 5) Mineral sunscreen SPF 50+ (prevent melasma!). EVENING: 1) Cleanser, 2) Azelaic acid 10-20% (safe for acne/melasma), 3) Hyaluronic acid, 4) Rich moisturizer. WEEKLY: Gentle lactic acid 5% exfoliant. AVOID: Retinoids, hydroquinone, high-dose salicylic. COMMON: Acne, melasma, sensitivity. Consult doctor before new products!",
+      "tags": ["pregnancy", "routine", "safe", "melasma", "skincare"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0120",
+      "question": "What is melasma and how to prevent it during pregnancy?",
+      "answer": "MELASMA: Brown/gray patches on face, triggered by hormones + sun. Common in pregnancy ('pregnancy mask'). PREVENTION: 1) SPF 50+ DAILY (zinc oxide, titanium dioxide), reapply!, 2) Wide-brimmed hat, 3) Avoid sun 10am-4pm, 4) Vitamin C serum (antioxidant), 5) Niacinamide 5%. AFTER PREGNANCY: Hydroquinone 4%, tretinoin, tranexamic acid, azelaic acid, chemical peels, laser. CRUCIAL: Sun protection or it returns! 30-50% clears on its own postpartum.",
+      "tags": ["melasma", "pregnancy", "prevention", "hyperpigmentation"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0121",
+      "question": "What is the skin barrier and why is it important?",
+      "answer": "SKIN BARRIER (stratum corneum): Outermost layer, protects from: 1) Bacteria/pathogens, 2) Environmental damage, 3) Water loss, 4) Irritants/allergens. MADE OF: Skin cells (bricks) + lipids like ceramides (mortar). HEALTHY BARRIER = Hydrated, smooth, protected. DAMAGED = Dryness, sensitivity, redness, breakouts, stinging. PROTECT: 1) Gentle cleansers, 2) Ceramides, 3) Avoid over-exfoliation, 4) Don't strip with harsh products, 5) Niacinamide (builds barrier). Foundation of healthy skin!",
+      "tags": ["skin barrier", "ceramides", "barrier", "protection"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0122",
+      "question": "What damages skin barrier?",
+      "answer": "BARRIER DAMAGE from: 1) OVER-EXFOLIATION (too many acids, scrubs), 2) HARSH CLEANSERS (sulfates, high pH), 3) HOT WATER (strips oils), 4) OVER-WASHING (more than 2x/day), 5) STRIPPING PRODUCTS (alcohol, fragrance), 6) RETINOIDS (if introduced too fast), 7) ENVIRONMENTAL (pollution, dry air, sun), 8) STRESS. SIGNS: Tightness, redness, stinging with products, increased breakouts, flaking. REPAIR: Stop all actives 2-4 weeks, gentle cleanser, ceramides, occlusives (Aquaphor).",
+      "tags": ["skin barrier", "damage", "over-exfoliation", "causes"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0123",
+      "question": "What is the pH of skin and why does it matter?",
+      "answer": "SKIN pH: 4.5-5.5 (slightly acidic). WHY ACIDIC: 1) Kills bad bacteria, 2) Keeps good bacteria, 3) Maintains barrier function, 4) Enzyme activity. HIGH pH products (8-10) = Strips barrier, dryness, sensitivity. CLEANSERS: Should be pH 5-6 (gentle). EXFOLIANTS: Lower pH (AHA 3-4) for efficacy but can irritate. VITAMIN C: Low pH (2.5-3.5) for stability. Balance between efficacy + skin health. DON'T OBSESS but choose pH-appropriate cleansers!",
+      "tags": ["ph", "skin barrier", "cleansers", "acidic"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0124",
+      "question": "What is the difference between physical and chemical exfoliation?",
+      "answer": "PHYSICAL (manual): Scrubs, brushes, washcloths - physically remove dead skin. PROS: Immediate smoothness, satisfying. CONS: Can damage barrier if harsh, micro-tears, irritation. CHEMICAL: Acids (AHA/BHA) dissolve bonds between dead cells. PROS: Gentle, even, penetrates pores (BHA), brightens. CONS: Can irritate if too strong, purging period. RECOMMENDATION: Chemical > Physical (safer, more effective). If physical: gentle, circular motions, 1-2x/week max. NEVER: Apricot scrubs (too harsh!), daily scrubbing.",
+      "tags": ["exfoliation", "physical", "chemical", "comparison", "scrubs"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0125",
+      "question": "How to build a skincare routine from scratch?",
+      "answer": "BUILDING ROUTINE (step-by-step): STEP 1 (Week 1-4): Cleanser + Moisturizer + SPF. Establish basics, see how skin reacts. STEP 2 (Week 5-8): Add ONE treatment (retinol OR niacinamide OR vitamin C). Start slow (2-3x/week). STEP 3 (Week 9-12): Add second treatment if needed (exfoliant 2x/week). STEP 4 (Week 13+): Fine-tune (eye cream, face oil, masks). RULES: 1) One new product at a time (4 weeks between), 2) Patch test, 3) Start minimal, add as needed, 4) Listen to skin!",
+      "tags": ["routine", "building", "beginner", "step by step"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0126",
+      "question": "How to patch test new skincare products?",
+      "answer": "PATCH TEST (avoid allergic reactions): STEP 1: Apply small amount to inner forearm or behind ear. STEP 2: Wait 24-48 hours. STEP 3: Check for: redness, itching, burning, rash, swelling. PASS = No reaction → test on face. STEP 4: Apply to small area of face (jawline). STEP 5: Wait 24-48 hours. PASS = No reaction → use on full face. HIGH-RISK: Fragrances, essential oils, new actives (retinol, acids), products with many ingredients. SKIP: Basic cleansers/moisturizers (unless very sensitive).",
+      "tags": ["patch test", "allergy", "testing", "skincare", "safe"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0127",
+      "question": "What are the most important skincare steps?",
+      "answer": "TOP 3 NON-NEGOTIABLES: 1) SUNSCREEN SPF 30+ (prevents 80% of aging + skin cancer!), 2) CLEANSER (removes dirt, makeup, allows products to work), 3) MOISTURIZER (hydration, barrier protection). ADD IF CONCERNS: 4) RETINOL (anti-aging, acne, texture - most proven ingredient), 5) VITAMIN C or NIACINAMIDE (antioxidant, brightening). Everything else = optional extras! 90% of results from these 3-5 products. Consistency > quantity. Simple routine done daily > complicated routine done randomly.",
+      "tags": ["essential", "important", "must have", "routine", "basics"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0128",
+      "question": "What is the biggest skincare mistake people make?",
+      "answer": "TOP MISTAKES: 1) NO SUNSCREEN (biggest mistake! 80% of aging from sun), 2) OVER-EXFOLIATING (damages barrier, more breakouts), 3) USING TOO MANY PRODUCTS (confuses skin, can't identify reactions), 4) PICKING/POPPING (scarring, infection), 5) INCONSISTENCY (switching products weekly, not giving time to work), 6) SKIPPING MOISTURIZER on oily skin (makes it oilier!), 7) USING HOT WATER (strips skin), 8) NOT REMOVING MAKEUP (clogs pores). FIX: Simple routine, SPF daily, patience (8-12 weeks for results)!",
+      "tags": ["mistakes", "common", "errors", "skincare", "avoid"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0129",
+      "question": "How long does it take to see skincare results?",
+      "answer": "TIMELINE BY PRODUCT: IMMEDIATE (1-2 days): Hydration (hyaluronic acid), soothing (centella). 2-4 WEEKS: Brightening (vitamin C), oil control (niacinamide), texture improvement (gentle exfoliation). 6-8 WEEKS: Retinol (fine lines), acne treatments, fading dark spots. 3-6 MONTHS: Deep wrinkles (retinol), significant acne scar fading, collagen building. 6-12 MONTHS: Anti-aging (tretinoin), stubborn hyperpigmentation. SKIN CYCLE = 28 days. Need 2-3 cycles minimum. PATIENCE IS KEY! Consistency > switching products.",
+      "tags": ["results", "timeline", "how long", "patience", "expectations"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0130",
+      "question": "What is the best skincare for mature skin over 50?",
+      "answer": "MATURE SKIN (50+) ROUTINE: MORNING: 1) Gentle cream cleanser, 2) Vitamin C 15-20% (antioxidant), 3) Peptide serum, 4) Rich eye cream, 5) Moisturizer (ceramides, hyaluronic acid), 6) SPF 50+. EVENING: 1) Double cleanse, 2) Tretinoin 0.025-0.1% OR retinol 1%, 3) Peptides, 4) Rich night cream, 5) Face oil. WEEKLY: AHA peel, hydrating mask. PROFESSIONAL: Botox, fillers, laser. FOCUS: Hydration, barrier support, collagen stimulation. Never too late for retinoids!",
+      "tags": ["mature skin", "aging", "50+", "routine", "anti-aging"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0131",
+      "question": "What causes skin discoloration and uneven skin tone?",
+      "answer": "CAUSES: 1) SUN DAMAGE (age spots, melasma), 2) POST-INFLAMMATORY HYPERPIGMENTATION (acne scars, injury), 3) HORMONES (melasma, pregnancy), 4) AGING (uneven melanin), 5) GENETICS, 6) MEDICATIONS (minocycline, chemotherapy). TREATMENT: 1) SPF 50+ daily (prevent worsening!), 2) Vitamin C serum, 3) Niacinamide, 4) Alpha arbutin, 5) Retinol, 6) AHA exfoliants. STUBBORN: Hydroquinone, tranexamic acid, chemical peels, laser. Takes 8-12 weeks minimum. Prevention easier than treatment!",
+      "tags": ["discoloration", "uneven tone", "hyperpigmentation", "causes"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0132",
+      "question": "What is the best skincare routine for sensitive skin with rosacea?",
+      "answer": "ROSACEA-SAFE ROUTINE: MORNING: 1) Gentle cream cleanser (Vanicream, CeraVe Hydrating), 2) Soothing serum (centella, niacinamide 5%), 3) Barrier repair moisturizer (ceramides), 4) Mineral sunscreen SPF 50+. EVENING: 1) Micellar water, 2) Gentle cleanser, 3) Azelaic acid 10-20% (reduces redness, safe for rosacea), 4) Barrier moisturizer. AVOID: Fragrance, alcohol, acids (except azelaic), retinol (unless tolerated), hot water, harsh scrubs. PRESCRIPTION: Metronidazole gel, ivermectin cream, laser (IPL).",
+      "tags": ["rosacea", "sensitive", "routine", "redness", "treatment"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0133",
+      "question": "What skincare products do I actually need?",
+      "answer": "ESSENTIAL (3): 1) CLEANSER (removes dirt/makeup), 2) MOISTURIZER (hydration/barrier), 3) SUNSCREEN SPF 30+ (prevention!). HIGHLY RECOMMENDED (2): 4) RETINOL 0.5-1% (anti-aging, acne, texture - most proven), 5) VITAMIN C or NIACINAMIDE (antioxidant, brightening). OPTIONAL: Eye cream (if dark circles), exfoliant (texture), treatments for specific concerns. DON'T NEED: Toners (unless love), essences, 10 serums, expensive packaging. TOTAL: 5-7 products maximum. More ≠ better. Consistency + quality > quantity.",
+      "tags": ["essential", "necessary", "need", "products", "minimal"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0134",
+      "question": "What is double cleansing and who needs it?",
+      "answer": "DOUBLE CLEANSE: Two-step cleansing. STEP 1: Oil-based cleanser (removes makeup, sunscreen, sebum - oil dissolves oil). STEP 2: Water-based cleanser (removes sweat, dirt, water-based impurities). WHO NEEDS: 1) Wears makeup daily, 2) Uses sunscreen (especially water-resistant), 3) Oily skin, 4) Lives in polluted city, 5) Acne-prone (prevents clogging). WHO CAN SKIP: No makeup/sunscreen, dry/sensitive skin (may be too much). WHEN: Evening only. Morning = single cleanse or water.",
+      "tags": ["double cleanse", "cleansing", "oil cleanser", "routine"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0135",
+      "question": "Can I skip moisturizer if I have oily skin?",
+      "answer": "NO! Common myth. OILY SKIN NEEDS MOISTURIZER: 1) Dehydrated skin overproduces oil to compensate, 2) Barrier needs hydration to function, 3) Using actives (BHA, retinol) without moisturizer = irritation, 4) Oily ≠ hydrated. CHOOSE: Lightweight, oil-free, gel-based moisturizers (Neutrogena Hydro Boost Water Gel, CeraVe PM). INGREDIENTS: Hyaluronic acid, niacinamide, ceramides. AVOID: Heavy creams, coconut oil. Skipping moisturizer can make oily skin WORSE!",
+      "tags": ["oily skin", "moisturizer", "hydration", "myth"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0136",
+      "question": "What causes dry patches on face?",
+      "answer": "DRY PATCHES caused by: 1) DAMAGED BARRIER (over-exfoliation, harsh products), 2) DEHYDRATION (not enough water), 3) WEATHER (cold, dry air, wind), 4) HOT SHOWERS, 5) HARSH CLEANSERS (sulfates), 6) RETINOIDS (adjustment period), 7) ECZEMA, 8) SEBORRHEIC DERMATITIS. FIX: 1) STOP actives temporarily, 2) Gentle cream cleanser, 3) Hyaluronic acid on damp skin, 4) Rich moisturizer (CeraVe, Vanicream), 5) Aquaphor/Vaseline on patches at night, 6) Humidifier. See dermatologist if persistent/scaly.",
+      "tags": ["dry patches", "dry skin", "flaky", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0137",
+      "question": "What is the difference between dry and dehydrated skin?",
+      "answer": "DRY SKIN (type): Lacks OIL/SEBUM. Genetic, permanent. Feels tight, rough, flaky all over. Needs: Rich creams, oils, occlusives. DEHYDRATED SKIN (condition): Lacks WATER. Temporary, any skin type can get it. Feels tight but may be oily/shiny, fine lines more visible. Needs: Hydrating serums (hyaluronic acid), humidifier, drink water. CAN HAVE BOTH: Dry + dehydrated needs oil AND water. SOLUTIONS: Dry = moisturizer + oil. Dehydrated = hydrating serum + moisturizer.",
+      "tags": ["dry skin", "dehydrated", "difference", "comparison"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0138",
+      "question": "What is the best treatment for forehead wrinkles?",
+      "answer": "FOREHEAD LINES: TOPICAL: 1) Retinol/tretinoin 0.5-1% (most effective at home), 2) Vitamin C + peptides (support collagen), 3) Hyaluronic acid (plump lines), 4) SPF 50+ (prevent worsening). PROFESSIONAL: 1) BOTOX (relaxes forehead muscle - gold standard, 3-6 months, $300-600), 2) Fillers (for static deep lines), 3) Laser resurfacing, 4) Microneedling. PREVENTIVE: Sleep on back, facial expressions (frowning less), SPF from young age. Botox = most effective. Topicals help but won't eliminate deep lines.",
+      "tags": ["forehead wrinkles", "lines", "botox", "treatment", "anti-aging"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0139",
+      "question": "What causes and how to treat smile lines (nasolabial folds)?",
+      "answer": "NASOLABIAL FOLDS (smile lines): Natural creases from nose to mouth corners. CAUSES: 1) Aging (collagen/fat loss), 2) Genetics, 3) Sun damage, 4) Repeated facial expressions, 5) Weight loss. TOPICAL (limited help): Retinol, peptides, vitamin C (support collagen). PROFESSIONAL (effective): 1) FILLERS (hyaluronic acid - immediate plumping, $600-1200, 9-18 months), 2) Microneedling + PRP, 3) Thread lift (temporary), 4) Surgery (facelift for severe). Fillers = most popular, natural-looking. Prevention: SPF, retinol from 20s.",
+      "tags": ["smile lines", "nasolabial folds", "fillers", "wrinkles", "aging"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0140",
+      "question": "What is retinoid and how is it different from retinol?",
+      "answer": "RETINOID = Umbrella term for ALL vitamin A derivatives. TYPES (weakest to strongest): 1) RETINYL PALMITATE (weakest, minimal results), 2) RETINOL (OTC, converts to retinoic acid, effective), 3) RETINALDEHYDE (stronger, less irritation), 4) TRETINOIN/Retin-A (PRESCRIPTION, strongest, fastest results). ALL: Anti-aging, acne, texture. CHOOSE: Retinol for beginners/OTC. Tretinoin for faster/dramatic results (needs dermatologist). Start low %, increase gradually. ALWAYS SPF!",
+      "tags": ["retinoid", "retinol", "vitamin a", "comparison", "ingredients"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0141",
+      "question": "Can retinol be used around eyes?",
+      "answer": "YES, but carefully! Eye area: thinner skin, more sensitive. HOW: 1) Start with LOW % (0.25-0.5%), 2) Apply 0.5 inch AWAY from eye (migrates closer), 3) Start 2x/week, increase slowly, 4) Use retinol designed for eyes OR regular (if tolerated), 5) BUFFER: moisturizer first, then retinol, 6) SPF crucial next day. BENEFITS: Reduces crow's feet, crepey texture, dark circles. CAUTION: Stop if irritation, redness, excessive dryness. Alternative: bakuchiol (gentle retinol alternative) or eye cream with low % retinol.",
+      "tags": ["retinol", "eye cream", "crow's feet", "sensitive"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0142",
+      "question": "What is bakuchiol?",
+      "answer": "BAKUCHIOL: Plant-based retinol alternative (from babchi plant). BENEFITS: 1) Reduces fine lines, 2) Improves texture, 3) Evens tone, 4) Boosts collagen. ADVANTAGES over retinol: 1) NO sun sensitivity, 2) Less/no irritation, 3) Safe for sensitive skin, 4) Can use during pregnancy (consult doctor), 5) Use morning or evening. EFFICACY: Gentler, slower results than retinol. Good for: very sensitive skin, retinol-intolerant, pregnant (with doctor approval). CONCENTRATION: 0.5-2%. Not as proven as retinol but promising!",
+      "tags": ["bakuchiol", "retinol alternative", "natural", "sensitive", "pregnancy"],
+      "category": "ingredients"
+    },
+    {
+      "id": "qa_0143",
+      "question": "What is the best way to prevent and treat neck wrinkles?",
+      "answer": "NECK CARE (often neglected!): PREVENTION: 1) SPF 30+ on neck daily, 2) Retinol from 30s, 3) Sleep on back (prevents creases), 4) Posture (looking down at phone = 'tech neck'). TREATMENT: TOPICAL: 1) Retinol 0.5-1%, 2) Peptides + vitamin C, 3) Hyaluronic acid, 4) Rich moisturizer. PROFESSIONAL: 1) Botox (platysma bands), 2) Fillers (vertical lines), 3) Ultherapy (ultrasound tightening), 4) Laser resurfacing, 5) Neck lift (surgical). DAILY: Extend face routine to neck + chest!",
+      "tags": ["neck", "wrinkles", "tech neck", "aging", "treatment"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0144",
+      "question": "How to take care of hands to prevent aging?",
+      "answer": "HAND CARE: Hands show age early (thin skin, sun exposure). DAILY: 1) SPF 30+ (reapply after washing!), 2) Rich hand cream (CeraVe, Neutrogena Norwegian Formula), 3) After EVERY hand wash, apply cream. NIGHT: 1) Retinol or AHA hand cream, 2) Thick cream, 3) Cotton gloves (locks in moisture). PROFESSIONAL: 1) Laser (age spots), 2) Fillers (volume loss - 'skeleton hands'), 3) Chemical peels. PREVENT: Gloves for cleaning, sunscreen year-round, moisturize constantly.",
+      "tags": ["hands", "aging", "age spots", "treatment", "prevention"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0145",
+      "question": "What is the best lip care routine?",
+      "answer": "LIP CARE: DAILY: 1) Gentle exfoliation 1-2x/week (sugar scrub or damp washcloth), 2) Hydrating lip balm (hyaluronic acid, ceramides, shea butter), 3) SPF 30+ lip balm (sun ages lips!), 4) Reapply throughout day. NIGHT: Thick balm (Aquaphor, Vaseline, Laneige Lip Sleeping Mask). AVOID: Licking lips (dries more), menthol/camphor (irritating), matte lipsticks without balm. PROFESSIONAL: Fillers (volume/shape), laser (fine lines). HYDRATE: Drink water, humidifier. Lips have NO oil glands - need constant moisture!",
+      "tags": ["lips", "lip care", "chapped lips", "routine"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0146",
+      "question": "What causes and how to treat chapped lips?",
+      "answer": "CHAPPED LIPS causes: 1) DEHYDRATION (most common), 2) Weather (cold, wind, dry air), 3) Licking lips (saliva dries them), 4) Mouth breathing, 5) Irritating products (menthol, fragrance), 6) Vitamin deficiency (B, iron), 7) Allergic reaction. TREATMENT: 1) Hydrate (8+ glasses water), 2) Humidifier, 3) Stop licking, 4) Thick balm (Aquaphor, Vaseline), 5) SPF lip balm, 6) Gentle exfoliation (not if cracked). SEVERE: Lanolin-based balms, hydrocortisone (short-term), see doctor if persistent (angular cheilitis).",
+      "tags": ["chapped lips", "dry lips", "treatment", "causes"],
+      "category": "concerns"
+    },
+    {
+      "id": "qa_0147",
+      "question": "What is the best skincare routine for eczema-prone skin?",
+      "answer": "ECZEMA ROUTINE: MORNING: 1) Gentle cream cleanser (Vanicream, CeraVe) OR just water, 2) Eczema-safe moisturizer (CeraVe Moisturizing Cream, Aveeno Eczema Therapy), 3) Mineral sunscreen. EVENING: 1) Gentle cleanser, 2) Same moisturizer on DAMP skin (locks moisture), 3) Aquaphor/Vaseline on problem areas. FLARE-UPS: Hydrocortisone 1% (short-term), colloidal oatmeal baths. AVOID: Fragrances, SLS, hot water, wool, over-bathing. PRESCRIPTION: Tacrolimus, Dupixent (severe). Keep routine MINIMAL - less = better for eczema!",
+      "tags": ["eczema", "atopic dermatitis", "routine", "sensitive", "treatment"],
+      "category": "routines"
+    },
+    {
+      "id": "qa_0148",
+      "question": "What is the best treatment for keratosis pilaris (chicken skin)?",
+      "answer": "KERATOSIS PILARIS (KP): Tiny bumps on arms/thighs (excess keratin). Genetic, harmless. TREATMENT: 1) EXFOLIATION: AHA (lactic, glycolic 10-12%) OR BHA (salicylic acid 2%) lotions, 2) MOISTURIZE: Immediately after shower (CeraVe SA Lotion, AmLactin 12%), 3) Gentle physical exfoliation (body brush, not harsh), 4) Retinol body lotion. PROFESSIONAL: Laser (reduces redness). AVOID:Harsh scrubbing, picking. REALISTIC: Can't cure (genetic) but can improve 50-70%. Be patient - takes 2-3 months consistency!",
+"tags": ["keratosis pilaris", "chicken skin", "bumpy skin", "treatment", "kp"],
+"category": "concerns"
+},
+{
+"id": "qa_0149",
+"question": "What is slugging and should I do it?",
+"answer": "SLUGGING: Applying occlusive (Vaseline, Aquaphor) as last step to SEAL in moisture. Originated from K-beauty. BENEFITS: 1) Intense hydration, 2) Repairs damaged barrier, 3) Locks in all products underneath, 4) Wakes up glowy. BEST FOR: Dry, dehydrated, flaky, damaged barrier. AVOID IF: Very oily, acne-prone (may clog pores), active breakouts. HOW: 1) Full routine, 2) Thin layer Vaseline/Aquaphor, 3) Overnight, 4) 1-3x/week. TIPS: Skip actives night before slugging, use on clean pillowcase.",
+"tags": ["slugging", "vaseline", "occlusive", "hydration", "k-beauty"],
+"category": "routines"
+},
+{
+"id": "qa_0150",
+"question": "What skincare myths should I stop believing?",
+"answer": "MYTHS DEBUNKED: 1) 'Pores open/close' - NO, they don't have muscles! Warm water softens debris, 2) 'Natural = better' - NO, poison ivy is natural!, 3) 'Expensive = better' - NOT always, actives % matters, 4) 'You can shrink pores' - NO, genetic size, can only minimize appearance, 5) 'Skin gets used to products, they stop working' - RARE, except moisturizer habituation, 6) 'Oily skin doesn't need moisturizer' - WRONG! Needs hydration, 7) 'SPF in makeup is enough' - NO, need separate SPF, 8) 'Toothpaste on pimples' - TERRIBLE idea! Use benzoyl peroxide.",
+"tags": ["myths", "debunked", "skincare myths", "facts", "truth"],
+"category": "routines"
+},
+{
+"id": "qa_0151",
+"question": "Does drinking green tea help skin?",
+"answer": "GREEN TEA BENEFITS: DRINKING: 1) Antioxidants (EGCG fights free radicals), 2) Anti-inflammatory (may reduce acne), 3) May protect from UV damage (NOT replace SPF!), 4) Hydration. TOPICAL (better for skin): Green tea extract in serums, moisturizers - calms inflammation, antioxidant, reduces redness. AMOUNT: 2-3 cups daily. REALISTIC: Helps but not dramatic. Part of healthy lifestyle. CAUTION: Caffeine can dehydrate if excessive. Also: matcha (more concentrated antioxidants). Better than soda/juice!",
+"tags": ["green tea", "antioxidants", "diet", "lifestyle", "skin health"],
+"category": "lifestyle"
+},
+{
+"id": "qa_0152",
+"question": "How to treat strawberry skin (dark pores on legs)?",
+"answer": "STRAWBERRY SKIN (dark dots on legs after shaving): Visible pores, ingrowns, pigmentation. TREAT: 1) EXFOLIATE: Salicylic acid 2% body wash or AHA lotion (2-3x/week), 2) SHAVE PROPERLY: Sharp razor, shaving cream, WITH grain, 3) EPILATE or WAX (removes hair from root - less visible), 4) LASER HAIR REMOVAL (permanent reduction), 5) MOISTURIZE: Daily body lotion, 6) DRY BRUSHING: Before shower, gentle. AVOID: Over-shaving, dull razors, no cream. Takes 4-8 weeks consistency. Laser = best long-term solution.",
+"tags": ["strawberry skin", "legs", "dark pores", "shaving", "treatment"],
+"category": "concerns"
+},
+{
+"id": "qa_0153",
+"question": "What is the best treatment for stretch marks?",
+"answer": "STRETCH MARKS (striae): Scars from skin stretching (pregnancy, growth, weight changes). COLOR: Red/purple (new) → white/silver (old). TREATMENT: NEW (red): 1) Tretinoin 0.05-0.1% cream (prescription - improves 20-30%), 2) Centella asiatica, 3) Hyaluronic acid, 4) Bio-Oil. OLD (white): Much harder! 1) LASER (fractional CO2, best results), 2) Microneedling, 3) Tretinoin (minimal). PREVENTION (pregnancy): Moisturize, but limited evidence. REALISTIC: Can improve, not eliminate. Accept as part of body!",
+"tags": ["stretch marks", "striae", "pregnancy", "treatment", "laser"],
+"category": "concerns"
+},
+{
+"id": "qa_0154",
+"question": "How to fade surgical scars?",
+"answer": "SCAR TREATMENT: TIMING: Start 2 weeks after stitches removed. TOPICAL: 1) SILICONE GEL SHEETS (gold standard, flatten + fade, wear 12+ hrs daily), 2) Vitamin C serum (lightens pigmentation), 3) Tretinoin 0.05% (prescription, improves texture), 4) Onion extract (Mederma), 5) Sunscreen SPF 50+ (prevent darkening!). PROFESSIONAL: 1) Laser (fractional), 2) Microneedling, 3) Steroid injections (raised scars), 4) Surgery (revision). MASSAGE: Gentle circular motions, breaks collagen. Takes 6-12 months. Start early!",
+"tags": ["scars", "surgical scars", "scar treatment", "fading", "silicone"],
+"category": "concerns"
+},
+{
+"id": "qa_0155",
+"question": "What is the best skincare for people with psoriasis?",
+"answer": "PSORIASIS ROUTINE: GENTLE: 1) Cream cleanser (CeraVe, Vanicream), 2) Coal tar or salicylic acid 3% (removes scales), 3) THICK moisturizer (CeraVe Psoriasis Moisturizing Cream) on damp skin, 4) Aquaphor/Vaseline on plaques. AVOID: Fragrances, harsh scrubs, hot water, alcohol. PRESCRIPTION: 1) Topical steroids (corticosteroids), 2) Vitamin D analogs (calcipotriene), 3) BIOLOGICS for severe (IL-17, IL-23 inhibitors), 4) Phototherapy (UV light). TRIGGERS: Stress, infections, cold, alcohol. See dermatologist - needs medical treatment!",
+"tags": ["psoriasis", "autoimmune", "routine", "treatment", "chronic"],
+"category": "routines"
+},
+{
+"id": "qa_0156",
+"question": "Can makeup cause acne?",
+"answer": "YES, if: 1) NOT REMOVED properly (clogs pores overnight), 2) Comedogenic ingredients (coconut oil, certain silicones, heavy oils), 3) Old/expired (bacteria growth), 4) Dirty brushes/sponges (bacteria), 5) Sharing makeup (bacteria transfer). PREVENT: 1) Non-comedogenic products, 2) REMOVE fully (double cleanse), 3) Clean brushes weekly, 4) Replace every 6-12 months, 5) Let skin breathe (no makeup days), 6) Primer + setting spray (barrier). BEST: Mineral makeup (less comedogenic). Skincare > makeup for clear skin!",
+"tags": ["makeup", "acne", "comedogenic", "causes", "prevention"],
+"category": "acne"
+},
+{
+"id": "qa_0157",
+"question": "How to treat maskne (acne from face masks)?",
+"answer": "MASKNE (acne mechanica from masks): Friction + moisture + bacteria. PREVENT: 1) CLEAN MASK: Wash cloth masks daily, change surgical masks, 2) BREATHABLE fabric (cotton, silk), 3) WELL-FITTING (not too tight), 4) Barrier cream (zinc oxide, Aquaphor) before mask. TREAT: 1) Gentle cleanser after removing mask, 2) Salicylic acid 2% OR benzoyl peroxide 2.5%, 3) Lightweight moisturizer, 4) Hydrocolloid patches on active pimples. AVOID: Heavy makeup under mask. Worse in healthcare workers - rotate mask areas if possible.",
+"tags": ["maskne", "mask acne", "acne mechanica", "treatment", "prevention"],
+"category": "acne"
+},
+{
+"id": "qa_0158",
+"question": "What causes skin tags and how to remove them?",
+"answer": "SKIN TAGS: Small, soft growths (friction, genetics, hormones). Common: neck, armpits, groin, eyelids. HARMLESS. CAUSES: 1) Friction (skin rubbing), 2) Genetics, 3) Pregnancy (hormones), 4) Obesity, 5) Diabetes, 6) Aging. REMOVAL: 1) DERMATOLOGIST: Surgical scissors, cryotherapy (freezing), electrocautery (burning), 2) AT-HOME: OTC freeze kits, tag removal devices (risky - infection, scarring). DON'T: Cut yourself, tie with string (infection risk!). Insurance usually doesn't cover (cosmetic). Prevention: Reduce friction, maintain healthy weight.",
+"tags": ["skin tags", "removal", "causes", "treatment"],
+"category": "concerns"
+},
+{
+"id": "qa_0159",
+"question": "What is the best anti-aging ingredient?",
+"answer": "TOP ANTI-AGING INGREDIENT: RETINOIDS (retinol, tretinoin). WHY: 1) PROVEN in clinical studies (gold standard), 2) Increases collagen, 3) Speeds cell turnover, 4) Fades dark spots, 5) Smooths texture, 6) Reduces wrinkles. CLOSE SECOND: SUNSCREEN (prevents 80% of aging - not treatment but crucial!). OTHERS (supportive): Vitamin C (antioxidant), peptides (collagen signal), niacinamide (multi-purpose), AHAs (exfoliation). BEST ROUTINE: SPF daily + retinoid nightly = most effective anti-aging duo. Nothing beats this combination!",
+"tags": ["anti-aging", "retinol", "best ingredient", "wrinkles", "tretinoin"],
+"category": "ingredients"
+},
+{
+"id": "qa_0160",
+"question": "How to get rid of milia (tiny white bumps)?",
+"answer": "MILIA: Tiny white cysts (trapped keratin under skin). Common around eyes, cheeks. CAUSES: 1) Heavy creams (especially eye area), 2) Sun damage, 3) Trauma/burns, 4) Genetics. TREATMENT: 1) PROFESSIONAL EXTRACTION (dermatologist/esthetician - safest), 2) Regular use of AHA/retinol (prevents, doesn't remove existing), 3) Chemical peels (professional). DON'T: Pick, squeeze, poke (scarring, infection!). PREVENT: 1) Lightweight eye creams, 2) SPF, 3) Regular exfoliation (AHA 2-3x/week). Takes time - be patient, don't DIY extract!",
+"tags": ["milia", "white bumps", "cysts", "removal", "treatment"],
+"category": "concerns"
+},
+{
+"id": "qa_0161",
+"question": "What is the skin microbiome and how to protect it?",
+"answer": "SKIN MICROBIOME: Trillions of bacteria/fungi/viruses living on skin (mostly beneficial!). FUNCTIONS: 1) Protects from pathogens, 2) Supports barrier, 3) Regulates inflammation, 4) Maintains pH. IMBALANCE = acne, eczema, rosacea, sensitivity. PROTECT: 1) DON'T over-cleanse (2x/day max), 2) Gentle pH-balanced cleansers (5-6), 3) AVOID harsh antibacterials (kills good bacteria), 4) PREBIOTICS/PROBIOTICS in skincare (feed good bacteria), 5) Limit antibiotics. EMERGING: Microbiome-friendly skincare. Balance = healthy skin!",
+"tags": ["microbiome", "bacteria", "skin barrier", "probiotics", "pH"],
+"category": "concerns"
+},
+{
+"id": "qa_0162",
+"question": "What are the signs of aging skin?",
+"answer": "AGING SIGNS: 1) WRINKLES/FINE LINES (forehead, crow's feet, smile lines), 2) LOSS OF FIRMNESS/SAGGING (jowls, neck), 3) VOLUME LOSS (hollow cheeks, temples, under eyes), 4) DARK SPOTS/UNEVEN TONE (sun damage), 5) ENLARGED PORES, 6) DRYNESS, 7) CREPEY TEXTURE, 8) DULLNESS, 9) BROKEN CAPILLARIES, 10) THINNER SKIN. TIMELINE: 20s = fine lines start, 30s = loss of collagen, 40s = sagging/volume loss, 50s+ = significant changes. SLOW IT: SPF, retinoids, antioxidants, healthy lifestyle from 20s!",
+"tags": ["aging signs", "wrinkles", "sagging", "aging", "symptoms"],
+"category": "concerns"
+},
+{
+"id": "qa_0163",
+"question": "What is the best skincare routine for beginners with no experience?",
+"answer": "COMPLETE BEGINNER ROUTINE: START SIMPLE (Week 1-4): MORNING: 1) Gentle cleanser (CeraVe Foaming or Hydrating), 2) Moisturizer (CeraVe Moisturizing Lotion), 3) Sunscreen SPF 30+ (Neutrogena Clear Face). EVENING: Same cleanser + moisturizer. WEEK 5-8: Add ONE treatment serum (niacinamide 5% OR vitamin C 10%). WEEK 9-12: Add retinol 0.25% 2x/week evening. SLOW + STEADY! DON'T: Start 10 products at once, change products weekly, skip SPF. BUDGET: ~$50 total. SIMPLE = sustainable = results!",
+"tags": ["beginner", "simple", "routine", "start", "basic"],
+"category": "routines"
+},
+{
+"id": "qa_0164",
+"question": "How to know if a product is working?",
+"answer": "SIGNS PRODUCT WORKS: POSITIVE: 1) Skin feels hydrated (moisturizer), 2) Breakouts decrease (acne treatment - 6-8 weeks), 3) Texture smooths (exfoliants, retinol - 4-8 weeks), 4) Dark spots fade (brightening - 8-12 weeks), 5) Fine lines soften (retinol - 12+ weeks), 6) No new sun damage (SPF). NEUTRAL (not working): No change after appropriate time. NEGATIVE (bad reaction): Redness, burning, rash, new breakouts in different areas - STOP! TIMELINE: Give 8-12 weeks minimum (2-3 skin cycles) before judging. Track with photos!",
+"tags": ["product working", "results", "timeline", "signs", "effective"],
+"category": "routines"
+},
+{
+"id": "qa_0165",
+"question": "Should I use different products for day and night?",
+"answer": "YES, optimize for different needs: MORNING (protect): 1) Lighter cleanse, 2) ANTIOXIDANTS (vitamin C - fights daytime damage), 3) Lightweight moisturizer, 4) SUNSCREEN (essential!). EVENING (repair): 1) Thorough cleanse, 2) TREATMENTS (retinol, AHA/BHA - work overnight), 3) Richer moisturizer, 4) NO SUNSCREEN needed. DIFFERENT because: Retinol = sun-sensitive, Vitamin C = boosts SPF, Night = repair mode. CAN SIMPLIFY: Same cleanser + moisturizer okay. Key differences: SPF (AM only), retinol (PM only), vitamin C (AM better).",
+"tags": ["day", "night", "routine", "morning", "evening", "difference"],
+"category": "routines"
+},
+{
+"id": "qa_0166",
+"question": "What causes forehead acne?",
+"answer": "FOREHEAD ACNE causes: 1) HAIR PRODUCTS (oils, silicones, heavy conditioners touching forehead), 2) HATS/HEADBANDS (friction, sweat), 3) HORMONES, 4) Touching face/leaning on hands, 5) Stress, 6) Digestive issues (forehead = traditional Chinese medicine mapping). TREAT: 1) KEEP HAIR OFF FACE (especially sleeping), 2) Non-comedogenic hair products, 3) Salicylic acid 2%, 4) Benzoyl peroxide, 5) Clean hats/headbands, 6) Retinol. WORST: Heavy pomades, coconut oil hair masks. Tie hair back while sleeping!",
+"tags": ["forehead acne", "hairline acne", "causes", "treatment"],
+"category": "acne"
+},
+{
+"id": "qa_0167",
+"question": "What causes chin and jawline acne?",
+"answer": "CHIN/JAWLINE ACNE: Usually HORMONAL! CAUSES: 1) HORMONES (period, PCOS, birth control changes), 2) Touching/leaning on chin, 3) Phone (bacteria), 4) Mask wearing. CHARACTERISTICS: Deep, cystic, flares around period. TREATMENT: 1) SPIRONOLACTONE (prescription for women - anti-androgen), 2) Birth control pills (regulate hormones), 3) Topical retinoids, 4) Benzoyl peroxide, 5) Clean phone regularly. AVOID: Dairy (may worsen hormonal acne). See dermatologist if persistent - topicals alone often insufficient for hormonal acne!",
+"tags": ["jawline acne", "chin acne", "hormonal", "causes", "treatment"],
+"category": "acne"
+},
+{
+"id": "qa_0168",
+"question": "How to treat under-eye bags and puffiness?",
+"answer": "UNDER-EYE BAGS: CAUSES: Aging (fat pads shift), genetics, fluid retention, allergies, lack of sleep. TREATMENT: TOPICAL (minimal): 1) CAFFEINE eye cream (constricts vessels, reduces fluid), 2) Cold compress/ice, 3) Jade roller (refrigerated). PROFESSIONAL (effective): 1) FILLERS (tear trough - lifts sagging, $700-1200), 2) BLEPHAROPLASTY (eye surgery - removes fat bags, permanent), 3) Laser (tightens skin). LIFESTYLE: 1) Sleep elevated, 2) Reduce salt, 3) Allergy meds if applicable. REALISTIC: True bags = structural, need professional treatment.",
+"tags": ["under eye bags", "puffy eyes", "eye bags", "treatment", "filler"],
+"category": "concerns"
+},
+{
+"id": "qa_0169",
+"question": "What is the best way to apply skincare products?",
+"answer": "APPLICATION TECHNIQUES: CLEANSER: Massage 30-60 seconds, rinse. TONER: Pat with hands (better than cotton - less waste). SERUM: 3-4 drops, pat/press into skin (don't rub aggressively). EYE CREAM: Ring finger (gentlest), dot + pat, don't pull. MOISTURIZER: Dime size, warm in hands, press in upward motions. SUNSCREEN: 1/4 teaspoon face, dot then blend. GENERAL: 1) Gentle pressure (no tugging), 2) Upward motions (anti-gravity), 3) Pat > rub (better absorption), 4) Wait 1-2 mins between layers. NECK: Upward strokes.",
+"tags": ["application", "how to apply", "technique", "skincare", "method"],
+"category": "routines"
+},
+{
+"id": "qa_0170",
+"question": "Does washing face with cold water shrink pores?",
+"answer": "MYTH! Cold water does NOT shrink pores (they can't open/close - no muscles!). WHAT COLD WATER DOES: 1) Temporarily CONSTRICTS blood vessels (less redness), 2) Feels refreshing/tightening (temporary). WHAT ACTUALLY MINIMIZES PORES: 1) Salicylic acid (unclogs), 2) Retinol (thickens surrounding skin), 3) Niacinamide (regulates oil), 4) Clay masks. BEST WATER TEMP: LUKEWARM for cleansing (removes dirt without stripping). Hot = strips oils, Cold = can't clean as well. Finish with cool rinse if like the feel!",
+"tags": ["cold water", "pores", "myth", "temperature", "shrink pores"],
+"category": "routines"
+},
+{
+"id": "qa_0171",
+"question": "How often should I change my pillowcase?",
+"answer": "PILLOWCASE: Change/wash 1-2x PER WEEK (minimum weekly). WHY: 1) Oils from hair/face accumulate, 2) Dead skin cells, 3) Bacteria (causes breakouts), 4) Product buildup. BEST: 1) SILK/SATIN (less friction = less wrinkles + frizz), 2) Cotton (breathable if not silk), 3) Have 2-3 sets (rotate). ACNE-PRONE: Change every 2-3 days. ALTERNATIVE: Flip pillowcase (fresh side) mid-week. ALSO CLEAN: Sheets weekly, wash with fragrance-free detergent. Simple habit = better skin + hair!",
+"tags": ["pillowcase", "hygiene", "acne", "prevention", "silk"],
+"category": "lifestyle"
+},
+{
+"id": "qa_0172",
+"question": "What is face yoga and does it prevent wrinkles?",
+"answer": "FACE YOGA: Facial exercises claiming to tone muscles, reduce wrinkles. THEORY: Exercises strengthen facial muscles = lifted, firmer skin. EVIDENCE: Limited scientific proof, small studies show minor improvement. CONCERN: Repeated facial movements may CREATE wrinkles (why Botox works by preventing movement!). SAFER ALTERNATIVES: 1) Facial massage (lymphatic drainage), 2) Gua sha, 3) Proven treatments (retinol, SPF, Botox). VERDICT: May help circulation/relaxation, unclear if prevents wrinkles, possibly counterproductive. Better: sleep on back, SPF, retinol, minimize expressions.",
+"tags": ["face yoga", "facial exercises", "wrinkles", "prevention", "effective"],
+"category": "concerns"
+},
+{
+"id": "qa_0173",
+"question": "What is LED light therapy for skin?",
+"answer": "LED LIGHT THERAPY: Different wavelengths treat skin concerns. TYPES: 1) RED (630-700nm): Boosts collagen, reduces wrinkles, healing, 2) BLUE (400-470nm): Kills acne bacteria, reduces oil, 3) YELLOW (570-590nm): Reduces redness, inflammation, 4) GREEN (520-560nm): Hyperpigmentation, calming. DEVICES: At-home (less powerful, $100-300) vs Professional (stronger, dermatologist). SESSIONS: 3-5x/week, 10-20 mins. RESULTS: Subtle, gradual (8-12 weeks). SAFE, non-invasive. BEST FOR: Acne (blue), anti-aging (red). Supplement to routine, not replacement for actives!",
+"tags": ["led therapy", "light therapy", "red light", "blue light", "treatment"],
+"category": "treatments"
+},
+{
+"id": "qa_0174",
+"question": "What is the best routine to fade acne scars fast?",
+"answer": "FAST SCAR FADING (still takes 8-12 weeks!): MORNING: 1) Gentle cleanser, 2) VITAMIN C 15-20% (brightens PIH), 3) NIACINAMIDE 5-10% (evens tone), 4) Moisturizer, 5) SPF 50+ (CRUCIAL - sun darkens scars!). EVENING: 1) Cleanser, 2) RETINOL 0.5-1% or Tretinoin 0.05% (speeds cell turnover, fades pigment), 3) Moisturizer. 2-3X/WEEK: AHA exfoliant (glycolic 10%). FASTER: 1) Hydroquinone 4% (prescription), 2) Professional peels, 3) Laser. PATIENCE! No instant fix. Consistency = results.",
+"tags": ["acne scars", "fading", "pih", "treatment", "fast"],
+"category": "acne"
+},
+{
+"id": "qa_0175",
+"question": "Can I use expired skincare products?",
+"answer": "DEPENDS: THROW OUT: 1) Sunscreen (loses efficacy - skin cancer risk!), 2) Acne treatments (benzoyl peroxide, retinoids - oxidize), 3) Vitamin C serum (oxidized = brown/orange color), 4) Products with weird smell/color/texture, 5) Mascara/liquid eyeliner (bacteria). OKAY (if look/smell fine): Basic cleansers, moisturizers 6-12 months past expiry. CHECK: 1) PAO symbol (jar with number = months after opening), 2) Expiration date, 3) Changes in smell/color/separation. STORAGE: Cool, dark place extends life. When in doubt, toss it! Safety > saving money.",
+"tags": ["expired", "shelf life", "products", "safety", "sunscreen"],
+"category": "routines"
+}
+]
+}

@@ -1,0 +1,15 @@
+flask
+flask-cors
+torch
+torchvision
+pillow
+numpy
+transformers
+rapidfuzz
+python-dotenv
+sentencepiece
+sentence-transformers
+faiss-cpu
+google-genai
+gunicorn
+timm

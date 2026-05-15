@@ -1,0 +1,44 @@
+cd skincare-ai
+notepad .gitignore    # Windows
+nano .gitignore       # Mac/Linux
+```
+
+**Paste this:**
+```
+# Backend
+skincare-backend/venv/
+skincare-backend/venv312/
+skincare-backend/__pycache__/
+skincare-backend/*.pyc
+skincare-backend/*.pyo
+skincare-backend/.env
+
+# Models (too large for GitHub)
+skincare-backend/models/*.keras
+skincare-backend/models/*.pth
+skincare-backend/models/dermnet_densenet121/
+skincare-backend/models/dermnet_effnet_b3/
+
+# Frontend
+skincaref/skincare-app/node_modules/
+skincaref/skincare-app/dist/
+skincaref/skincare-app/build/
+skincaref/skincare-app/.env
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+venv312/
+node_modules/
+.env

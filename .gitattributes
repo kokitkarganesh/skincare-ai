@@ -1,0 +1,2 @@
+Skin-care_Backend/models/**/*.data* filter=lfs diff=lfs merge=lfs -text
+Skin-care_Backend/models/*.pth filter=lfs diff=lfs merge=lfs -text
