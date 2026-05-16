@@ -154,4 +154,3 @@ Final Year BE Project — Computer Engineering, Mumbai University
 
 ---
 
-*Made with ❤️*
