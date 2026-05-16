@@ -4,23 +4,6 @@ An intelligent skincare platform built as a Final Year BE Project. Upload a skin
 
 ---
 
-## 📸 Screenshots
-
-### Home
-![Home](screenshots/home.png)
-
-### Skincare Analysis
-![Skincare Analysis](screenshots/skincare_analysis.png)
-
-### Questionnaire
-![Questionnaire](screenshots/questionnaire.png)
-
-### Evening Routine Results
-![Routine Results](screenshots/routine_results.png)
-
-### AI Assistant
-![AI Chatbot](screenshots/chatbot.png)
-
 ---
 
 ## ✨ What It Does
@@ -169,8 +152,8 @@ taskkill /F /PID <PID>
 
 ## 👨‍💻 Team
 
-Final Year BE Project — Computer Engineering, SIGCE Mumbai University
+Final Year BE Project — Computer Engineering, Mumbai University
 
 ---
 
-*Made with ❤️*
+
